@@ -1,0 +1,2010 @@
+{
+	"100": {
+		"en": "a broken down train",
+		"nl": "een defecte trein"
+	},
+	"101": {
+		"en": "a delay on a previous journey",
+		"nl": "vertraging van een eerdere trip"
+	},
+	"102": {
+		"en": "a derailed train",
+		"nl": "een ontspoorde trein"
+	},
+	"104": {
+		"en": "a fire at a station",
+		"nl": "brand in een station"
+	},
+	"105": {
+		"en": "a fire at a station earlier",
+		"nl": "brand in een station eerder vandaag"
+	},
+	"106": {
+		"en": "a landslip",
+		"nl": "een aardverzakking"
+	},
+	"107": {
+		"en": "a line-side fire",
+		"nl": "een bermbrand"
+	},
+	"108": {
+		"en": "a member of train crew being unavailable",
+		"nl": "een tekort aan treinpersoneel"
+	},
+	"109": {
+		"en": "a passenger being taken ill",
+		"nl": "een zieke passagier"
+	},
+	"110": {
+		"en": "a passenger having been taken ill earlier",
+		"nl": "een zieke passagier eerder vandaag"
+	},
+	"111": {
+		"en": "a person hit by a train",
+		"nl": "een aanrijding met een persoon"
+	},
+	"112": {
+		"en": "a person hit by a train earlier",
+		"nl": "een aanrijding met een persoon eerder vandaag"
+	},
+	"113": {
+		"en": "a problem at a level crossing",
+		"nl": "een probleem bij een spoorwegovergang"
+	},
+	"114": {
+		"en": "a problem currently under investigation",
+		"nl": "een probleem dat nog wordt onderzocht"
+	},
+	"115": {
+		"en": "a problem near the railway",
+		"nl": "een probleem in de buurt van de spoorweg"
+	},
+	"116": {
+		"en": "a problem with a river bridge",
+		"nl": "een probleem met een spoorbrug over een rivier"
+	},
+	"117": {
+		"en": "a problem with line side equipment",
+		"nl": "een probleem met spoorapparatuur"
+	},
+	"118": {
+		"en": "a security alert",
+		"nl": "een beveiligingswaarschuwing"
+	},
+	"119": {
+		"en": "a train derailed earlier",
+		"nl": "een ontspoorde trein eerder vandaag"
+	},
+	"120": {
+		"en": "a train fault",
+		"nl": "een storing aan een trein"
+	},
+	"121": {
+		"en": "a train late from the depot",
+		"nl": "een vertraagde trein vanaf het depot"
+	},
+	"122": {
+		"en": "a train late from the depot earlier",
+		"nl": "een vertraagde trein vanaf het depot eerder vandaag"
+	},
+	"123": {
+		"en": "a trespass incident",
+		"nl": "een persoon op het spoor"
+	},
+	"124": {
+		"en": "a vehicle striking a bridge",
+		"nl": "een botsing tussen een voertuig en een brug"
+	},
+	"125": {
+		"en": "a vehicle striking a bridge earlier",
+		"nl": "een botsing tussen een voertuig en een brug eerder vandaag"
+	},
+	"126": {
+		"en": "an earlier broken down train",
+		"nl": "een defecte trein eerder vandaag"
+	},
+	"128": {
+		"en": "an earlier landslip",
+		"nl": "een aardverzakking eerder vandaag"
+	},
+	"129": {
+		"en": "an earlier line-side fire",
+		"nl": "een bermbrand eerder vandaag"
+	},
+	"130": {
+		"en": "an earlier operating incident",
+		"nl": "een operationeel incident eerder vandaag"
+	},
+	"131": {
+		"en": "an earlier problem at a level crossing",
+		"nl": "een probleem met een spoorwegovergang eerder vandaag"
+	},
+	"132": {
+		"en": "an earlier problem near the railway",
+		"nl": "een probleem bij de spoorweg eerder vandaag"
+	},
+	"133": {
+		"en": "an earlier problem with a river bridge",
+		"nl": "een probleem met een spoorbrug eerder vandaag"
+	},
+	"134": {
+		"en": "an earlier problem with line side equipment",
+		"nl": "een probleem met spoorapparatuur eerder vandaag"
+	},
+	"135": {
+		"en": "an earlier security alert",
+		"nl": "een beveiligingswaarschuwing eerder vandaag"
+	},
+	"136": {
+		"en": "an earlier train fault",
+		"nl": "een defecte trein eerder vandaag"
+	},
+	"137": {
+		"en": "an earlier trespass incident",
+		"nl": "een persoon op het spoor eerder vandaag"
+	},
+	"138": {
+		"en": "an obstruction on the line",
+		"nl": "een obstakel op de spoorweg"
+	},
+	"139": {
+		"en": "an obstruction on the line earlier",
+		"nl": "een obstakel op de spoorweg eerder vandaag"
+	},
+	"140": {
+		"en": "an operating incident",
+		"nl": "een operationeel incident"
+	},
+	"141": {
+		"en": "an unusually large passenger flow",
+		"nl": "een onverwachte hoeveelheid passagiers"
+	},
+	"142": {
+		"en": "an unusually large passenger flow earlier",
+		"nl": "een onverwachte hoeveelheid passagiers eerder vandaag"
+	},
+	"143": {
+		"en": "animals on the line",
+		"nl": "dieren op het spoor"
+	},
+	"144": {
+		"en": "animals on the line earlier",
+		"nl": "dieren op het spoor eerder vandaag"
+	},
+	"145": {
+		"en": "congestion caused by earlier delays",
+		"nl": "drukte op het spoor vanwege eerdere vertraging"
+	},
+	"146": {
+		"en": "disruptive passengers",
+		"nl": "hinderlijke passagiers"
+	},
+	"147": {
+		"en": "disruptive passengers earlier",
+		"nl": "hinderlijke passagiers eerder vandaag"
+	},
+	"148": {
+		"en": "earlier electrical supply problems",
+		"nl": "een probleem met de stroomvoorziening eerder vandaag"
+	},
+	"149": {
+		"en": "earlier emergency engineering works",
+		"nl": "noodherstelwerkzaamheden eerder vandaag"
+	},
+	"150": {
+		"en": "earlier industrial action",
+		"nl": "stakingen eerder vandaag"
+	},
+	"151": {
+		"en": "earlier overhead wire problems",
+		"nl": "bovenleidingsproblemen eerder vandaag"
+	},
+	"152": {
+		"en": "earlier over-running engineering works",
+		"nl": "vertraagde werkzaamheden eerder vandaag"
+	},
+	"153": {
+		"en": "earlier signalling problems",
+		"nl": "een seinstoring eerder vandaag"
+	},
+	"154": {
+		"en": "earlier vandalism",
+		"nl": "vandalisme eerder vandaag"
+	},
+	"155": {
+		"en": "electrical supply problems",
+		"nl": "een probleem met de stroomvoorziening"
+	},
+	"156": {
+		"en": "emergency engineering works",
+		"nl": "noodherstelwerkzaamheden"
+	},
+	"157": {
+		"en": "emergency services dealing with a prior incident",
+		"nl": "hulpdiensten aan het werk met een incident eerder vandaag"
+	},
+	"158": {
+		"en": "emergency services dealing with an incident",
+		"nl": "hulpdiensten aan het werk met een incident"
+	},
+	"159": {
+		"en": "fire alarms sounding at a station",
+		"nl": "een brandalarm bij een station"
+	},
+	"160": {
+		"en": "fire alarms sounding earlier at a station",
+		"nl": "een brandalarm bij een station eerder vandaag"
+	},
+	"161": {
+		"en": "flooding",
+		"nl": "een overstroming"
+	},
+	"162": {
+		"en": "flooding earlier",
+		"nl": "een overstroming eerder vandaag"
+	},
+	"163": {
+		"en": "fog",
+		"nl": "mist"
+	},
+	"164": {
+		"en": "fog earlier",
+		"nl": "mist eerder vandaag"
+	},
+	"165": {
+		"en": "high winds",
+		"nl": "sterke wind"
+	},
+	"166": {
+		"en": "high winds earlier",
+		"nl": "sterke wind eerder vandaag"
+	},
+	"167": {
+		"en": "industrial action",
+		"nl": "een staking"
+	},
+	"168": {
+		"en": "lightning having damaged equipment",
+		"nl": "defecte apparatuur door blikseminslag"
+	},
+	"169": {
+		"en": "overhead wire problems",
+		"nl": "bovenleidingsproblemen"
+	},
+	"170": {
+		"en": "over-running engineering works",
+		"nl": "vertraagde werkzaamheden"
+	},
+	"171": {
+		"en": "passengers transferring between trains",
+		"nl": "overstappende passagiers"
+	},
+	"172": {
+		"en": "passengers transferring between trains earlier",
+		"nl": "overstappende passagiers eerder vandaag"
+	},
+	"173": {
+		"en": "poor rail conditions",
+		"nl": "slechte spoor omstandigheden"
+	},
+	"174": {
+		"en": "poor rail conditions earlier",
+		"nl": "slechte spoor omstandigheden eerder vandaag"
+	},
+	"175": {
+		"en": "poor weather conditions",
+		"nl": "slecht weer"
+	},
+	"176": {
+		"en": "poor weather conditions earlier",
+		"nl": "slecht weer eerder vandaag"
+	},
+	"177": {
+		"en": "safety checks being made",
+		"nl": "een beveiligingsronde"
+	},
+	"178": {
+		"en": "safety checks having been made earlier",
+		"nl": "een beveiligingsronde eerder vandaag"
+	},
+	"179": {
+		"en": "signalling problems",
+		"nl": "een seinstoring"
+	},
+	"180": {
+		"en": "snow",
+		"nl": "sneeuw"
+	},
+	"181": {
+		"en": "snow earlier",
+		"nl": "sneeuw eerder vandaag"
+	},
+	"182": {
+		"en": "speed restrictions having been imposed",
+		"nl": "snelheidsbeperkingen"
+	},
+	"183": {
+		"en": "train crew having been unavailable earlier",
+		"nl": "een tekort aan treinpersoneel eerder vandaag"
+	},
+	"184": {
+		"en": "vandalism",
+		"nl": "vandalisme"
+	},
+	"185": {
+		"en": "waiting earlier for a train crew member",
+		"nl": "wachten op treinpersoneel eerder vandaag"
+	},
+	"186": {
+		"en": "waiting for a train crew member",
+		"nl": "wachten op treinpersoneel"
+	},
+	"187": {
+		"en": "engineering works",
+		"nl": "werkzaamheden"
+	},
+	"501": {
+		"en": "a broken down train",
+		"nl": "een defecte trein"
+	},
+	"502": {
+		"en": "a broken windscreen on the train",
+		"nl": "een defecte voorruit"
+	},
+	"503": {
+		"en": "a shortage of trains because of accident damage",
+		"nl": "een tekort aan materieel door ongelukschade"
+	},
+	"504": {
+		"en": "a shortage of trains because of extra safety inspections",
+		"nl": "een tekort aan materieel door extra veiligheidsinspecties"
+	},
+	"505": {
+		"en": "a shortage of trains because of vandalism",
+		"nl": "een tekort aan materieel door vandalisme"
+	},
+	"506": {
+		"en": "a shortage of trains following damage by snow and ice",
+		"nl": "een tekort aan materieel door sneeuw en ijs"
+	},
+	"507": {
+		"en": "more trains than usual needing repairs at the same time",
+		"nl": "meer materieel dan normaal gelijktijdig benodigd voor onderhoud"
+	},
+	"508": {
+		"en": "the train for this service having broken down",
+		"nl": "het materieel dat deze rit had moeten rijden is defect geraakt"
+	},
+	"509": {
+		"en": "this train breaking down",
+		"nl": "deze trein is kapot gegaan"
+	},
+	"510": {
+		"en": "a collision between trains",
+		"nl": "een botsing tussen treinen"
+	},
+	"511": {
+		"en": "a collision with the buffers at a station",
+		"nl": "een botsing met het stootblok bij een station"
+	},
+	"512": {
+		"en": "a derailed train",
+		"nl": "een ontspoorde trein"
+	},
+	"513": {
+		"en": "a derailment within the depot",
+		"nl": "een ontsporing in het depot"
+	},
+	"514": {
+		"en": "a low speed derailment",
+		"nl": "een lage snelheid ontsporing"
+	},
+	"515": {
+		"en": "a train being involved in an accident",
+		"nl": "een trein dat betrokken is bij een ongeval"
+	},
+	"516": {
+		"en": "trains being involved in an accident",
+		"nl": "meerdere treinen dat betrokken zijn bij een ongeval"
+	},
+	"517": {
+		"en": "a fire at a station",
+		"nl": "brand in een staiton"
+	},
+	"518": {
+		"en": "a fire at a station earlier today",
+		"nl": "brand in een station eerder vandaag"
+	},
+	"519": {
+		"en": "a landslip",
+		"nl": "een aardverzakking"
+	},
+	"520": {
+		"en": "a fire next to the track",
+		"nl": "brand bij het spoor"
+	},
+	"521": {
+		"en": "a fire on a train",
+		"nl": "brand in een trein"
+	},
+	"522": {
+		"en": "a member of on train staff being taken ill",
+		"nl": "ziekte van treinpersoneel"
+	},
+	"523": {
+		"en": "a shortage of on train staff",
+		"nl": "een tekort aan personeel"
+	},
+	"524": {
+		"en": "a shortage of train conductors",
+		"nl": "een tekort aan hoofdconducteurs"
+	},
+	"525": {
+		"en": "a shortage of train crew",
+		"nl": "een tekort aan treinpersoneel"
+	},
+	"526": {
+		"en": "a shortage of train drivers",
+		"nl": "een tekort aan machinisten"
+	},
+	"527": {
+		"en": "a shortage of train guards",
+		"nl": "een tekort aan hoofdconducteurs"
+	},
+	"528": {
+		"en": "a shortage of train managers",
+		"nl": "een tekort aan hoofdconducteurs"
+	},
+	"529": {
+		"en": "severe weather preventing train crew getting to work",
+		"nl": "extreem weer waardoor treinpersoneel niet naar werk kan komen"
+	},
+	"530": {
+		"en": "the train conductor being taken ill",
+		"nl": "een zieke hoofdconducteur"
+	},
+	"531": {
+		"en": "the train driver being taken ill",
+		"nl": "een zieke machinist"
+	},
+	"532": {
+		"en": "the train guard being taken ill",
+		"nl": "een zieke hoofdconducteur"
+	},
+	"533": {
+		"en": "the train manager being taken ill",
+		"nl": "een zieke hoofdconducteur"
+	},
+	"534": {
+		"en": "a passenger being taken ill at a station",
+		"nl": "een zieke passagier in een station"
+	},
+	"535": {
+		"en": "a passenger being taken ill on a train",
+		"nl": "een zieke passagier in een trein"
+	},
+	"536": {
+		"en": "a passenger being taken ill on this train",
+		"nl": "een zieke passagier in deze trein"
+	},
+	"537": {
+		"en": "a passenger being taken ill at a station earlier today",
+		"nl": "een zieke passagier in een station eerder vandaag"
+	},
+	"538": {
+		"en": "a passenger being taken ill on a train earlier today",
+		"nl": "een zieke passagier in een trein eerder vandaag"
+	},
+	"539": {
+		"en": "a passenger being taken ill on this train earlier in its journey",
+		"nl": "een zieke passagier in deze trein eerder deze rit"
+	},
+	"540": {
+		"en": "a person being hit by a train",
+		"nl": "een aanrijding met een persoon"
+	},
+	"541": {
+		"en": "a person being hit by a train earlier today",
+		"nl": "een aanrijding met een persoon eerder vandaag"
+	},
+	"542": {
+		"en": "a collision at a level crossing",
+		"nl": "een aanrijding bij een spoorwegovergang"
+	},
+	"543": {
+		"en": "a fault with barriers at a level crossing",
+		"nl": "een defect aan de slagbomen van een spoorwegovergang"
+	},
+	"544": {
+		"en": "a road accident at a level crossing",
+		"nl": "een wegongeval bij een spoorwegovergang"
+	},
+	"545": {
+		"en": "a road vehicle colliding with level crossing barriers",
+		"nl": "een aanrijding tussen een wegvoertuig een een slagboom van een spoorwegovergang"
+	},
+	"546": {
+		"en": "a road vehicle damaging track at a level crossing",
+		"nl": "een wegvoertuig dat het spoor op een spoorwegovergang heeft beschadigd"
+	},
+	"547": {
+		"en": "a problem currently under investigation",
+		"nl": "een probleem wat word onderzocht"
+	},
+	"548": {
+		"en": "a burst water main near the railway",
+		"nl": "een defecte waterleiding bij het spoor"
+	},
+	"549": {
+		"en": "a chemical spillage near the railway",
+		"nl": "chemische lekkage bij het spoor"
+	},
+	"550": {
+		"en": "a fire near the railway involving gas cylinders",
+		"nl": "een gascylinder brand bij het spoor"
+	},
+	"551": {
+		"en": "a fire near the railway suspected to involve gas cylinders",
+		"nl": "een mogelijke gascylinder brand bij het spoor"
+	},
+	"552": {
+		"en": "a fire on property near the railway",
+		"nl": "brand op een perceel bij het spoor"
+	},
+	"553": {
+		"en": "a gas leak near the railway",
+		"nl": "gaslekkage bij het spoor"
+	},
+	"554": {
+		"en": "a road accident near the railway",
+		"nl": "een wegongeluk bij het spoor"
+	},
+	"555": {
+		"en": "a wartime bomb near the railway",
+		"nl": "een bom uit een oorlog bij het spoor"
+	},
+	"556": {
+		"en": "ambulance service dealing with an incident near the railway",
+		"nl": "ambulance aan het werk voor een incident bij het spoor"
+	},
+	"557": {
+		"en": "emergency services dealing with an incident near the railway",
+		"nl": "hulpdiensten bezig met een incident bij het spoor"
+	},
+	"558": {
+		"en": "fire brigade dealing with an incident near the railway",
+		"nl": "brandweer bezig met een incident bij het spoor"
+	},
+	"559": {
+		"en": "police dealing with an incident near the railway",
+		"nl": "politie bezig met een incident bij het spoor"
+	},
+	"560": {
+		"en": "a boat colliding with a bridge",
+		"nl": "een botsing tussen een boot en een spoorbrug"
+	},
+	"561": {
+		"en": "a fault with a swing bridge over a river",
+		"nl": "een probleem met een draaibrug"
+	},
+	"562": {
+		"en": "a problem with a river bridge",
+		"nl": "een probleem met een brug"
+	},
+	"563": {
+		"en": "a problem with line-side equipment",
+		"nl": "een probleem met apparatuur bij het spoor"
+	},
+	"564": {
+		"en": "a security alert at a station",
+		"nl": "een beveiligingswaarschuwing in een station"
+	},
+	"565": {
+		"en": "a security alert on another train",
+		"nl": "een beveiligingswaarschuwing in een andere trein"
+	},
+	"566": {
+		"en": "a security alert on this train",
+		"nl": "een beveiligingswaarschuwing in deze trein"
+	},
+	"567": {
+		"en": "a train derailment earlier today",
+		"nl": "een ontsporing eerder vandaag"
+	},
+	"568": {
+		"en": "a train derailment yesterday",
+		"nl": "een onsporing gister"
+	},
+	"569": {
+		"en": "a fault occurring when attaching a part of a train",
+		"nl": "een defect bij het koppelen van een deel van een trein"
+	},
+	"570": {
+		"en": "a fault occurring when attaching a part of this train",
+		"nl": "een defect bij het koppelen van een deel van deze trein"
+	},
+	"571": {
+		"en": "a fault occurring when detaching a part of a train",
+		"nl": "een defect bij het ontkoppelen van een deel van een trein"
+	},
+	"572": {
+		"en": "a fault occurring when detaching a part of this train",
+		"nl": "een defect bij het ontkoppelen van een deel van deze trein"
+	},
+	"573": {
+		"en": "a fault on a train in front of this one",
+		"nl": "een defecte trein voor deze trein"
+	},
+	"574": {
+		"en": "a fault on this train",
+		"nl": "een defecte trein"
+	},
+	"575": {
+		"en": "this train being late from the depot",
+		"nl": "vertraging bij het depot"
+	},
+	"576": {
+		"en": "trespassers on the railway",
+		"nl": "personen op het spoor"
+	},
+	"577": {
+		"en": "a bus colliding with a bridge",
+		"nl": "een aanrijding tussen een bus en een spoorbrug"
+	},
+	"578": {
+		"en": "a lorry colliding with a bridge",
+		"nl": "een aanrijding tussen een vrachtwagen en een spoorbrug"
+	},
+	"579": {
+		"en": "a road vehicle colliding with a bridge",
+		"nl": "een aanrijding tussen een wegvoertuig en een spoorbrug"
+	},
+	"580": {
+		"en": "a bus colliding with a bridge earlier on this train's journey",
+		"nl": "een eerdere aanrijding tussen een bus en een spoorbrug"
+	},
+	"581": {
+		"en": "a bus colliding with a bridge earlier today",
+		"nl": "een aanrijding tussen een bus en een spoorbrug eerder vandaag"
+	},
+	"582": {
+		"en": "a lorry colliding with a bridge earlier on this train's journey",
+		"nl": "een eerdere aanrijding tussen een vrachtwagen en een spoorbrug"
+	},
+	"583": {
+		"en": "a lorry colliding with a bridge earlier today",
+		"nl": "een aanrijding tussen een vrachtwagen en een spoorbrug eerder vandaag"
+	},
+	"584": {
+		"en": "a road vehicle colliding with a bridge earlier on this train's journey",
+		"nl": "een eerdere aanrijding op deze rit tussen een wegvoertuig en een brug"
+	},
+	"585": {
+		"en": "a road vehicle colliding with a bridge earlier today",
+		"nl": "een eerdere aanrijding tussen een wegvoertoeg en een brug"
+	},
+	"586": {
+		"en": "a broken down train earlier today",
+		"nl": "een defecte trein eerder vandaag"
+	},
+	"587": {
+		"en": "an earlier landslip",
+		"nl": "een aardverzakking eerder"
+	},
+	"588": {
+		"en": "a fire next to the track earlier today",
+		"nl": "een brand bij het spoor eerder vandaag"
+	},
+	"589": {
+		"en": "a fire on a train earlier today",
+		"nl": "een brand in een trein eerder vandaag"
+	},
+	"590": {
+		"en": "a coach becoming uncoupled on a train earlier in its journey",
+		"nl": "een ontkoppelde wagon eerder vandaag"
+	},
+	"591": {
+		"en": "a coach becoming uncoupled on a train earlier today",
+		"nl": "een ontkoppelde wagon eerder vandaag"
+	},
+	"592": {
+		"en": "a coach becoming uncoupled on this train earlier in its journey",
+		"nl": "een ontkoppelde wagon op deze trein eerder vandaag"
+	},
+	"593": {
+		"en": "a coach becoming uncoupled on this train earlier today",
+		"nl": "een ontkoppelde wagon op deze trein eerder vandaag"
+	},
+	"594": {
+		"en": "a train not stopping at a station it was supposed to earlier in its journey",
+		"nl": "een trein die een stop gemist heeft eerder vandaag"
+	},
+	"595": {
+		"en": "a train not stopping at a station it was supposed to earlier today",
+		"nl": "een trein die een stop gemist heeft eerder vandaag"
+	},
+	"596": {
+		"en": "a train not stopping in the correct position at a station earlier in its journey",
+		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
+	},
+	"597": {
+		"en": "a train not stopping in the correct position at a station earlier today",
+		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
+	},
+	"598": {
+		"en": "a train's automatic braking system being activated earlier in its journey",
+		"nl": "een automatische remingreep eerder vandaag"
+	},
+	"599": {
+		"en": "a train's automatic braking system being activated earlier today",
+		"nl": "een automatische remingreep eerder vandaag"
+	},
+	"600": {
+		"en": "an operational incident earlier in its journey",
+		"nl": "een operationeel incident eerder vandaag"
+	},
+	"601": {
+		"en": "an operational incident earlier today",
+		"nl": "een operationeel incident eerder vandaag"
+	},
+	"602": {
+		"en": "this train not stopping at a station it was supposed to earlier in its journey",
+		"nl": "een trein die een stop gemist heeft eerder vandaag"
+	},
+	"603": {
+		"en": "this train not stopping at a station it was supposed to earlier today",
+		"nl": "een trein die een stop gemist heeft eerder vandaag"
+	},
+	"604": {
+		"en": "this train not stopping in the correct position at a station earlier in its journey",
+		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
+	},
+	"605": {
+		"en": "this train not stopping in the correct position at a station earlier today",
+		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
+	},
+	"606": {
+		"en": "this train's automatic braking system being activated earlier in its journey",
+		"nl": "een automatische remingreep eerder vandaag"
+	},
+	"607": {
+		"en": "this train's automatic braking system being activated earlier today",
+		"nl": "een automatische remingreep eerder vandaag"
+	},
+	"608": {
+		"en": "a collision at a level crossing earlier today",
+		"nl": "een aanrijding op een spoorwegovergang eerder vandaag"
+	},
+	"609": {
+		"en": "a collision at a level crossing yesterday",
+		"nl": "een aanrijding op een spoorwegovergang gisteren"
+	},
+	"610": {
+		"en": "a fault with barriers at a level crossing earlier today",
+		"nl": "een defect aan de slagbomen van een spoorwegovergang eerder vandaag"
+	},
+	"611": {
+		"en": "a fault with barriers at a level crossing yesterday",
+		"nl": "een defect aan de slagbomen van een spoorwegovergang gisteren"
+	},
+	"612": {
+		"en": "a road accident at a level crossing earlier today",
+		"nl": "een aanrijding op een spoorwegovergang eerder vandaag"
+	},
+	"613": {
+		"en": "a road accident at a level crossing yesterday",
+		"nl": "een aanrijding op een spoorwegovergang gisteren"
+	},
+	"614": {
+		"en": "a road vehicle colliding with level crossing barriers earlier today",
+		"nl": "een aanrijding van de spoorwegovergangbomen eerder vandaag"
+	},
+	"615": {
+		"en": "a road vehicle colliding with level crossing barriers yesterday",
+		"nl": "een aanrijding van de spoorwegovergangbomen gisteren"
+	},
+	"616": {
+		"en": "a road vehicle damaging track at a level crossing earlier today",
+		"nl": "defect spoor op een spoorwegovergang door een aanrijding eerder vandaag"
+	},
+	"617": {
+		"en": "a road vehicle damaging track at a level crossing yesterday",
+		"nl": "defect spoor op een spoorwegovergang door een aanrijding gisteren"
+	},
+	"618": {
+		"en": "a burst water main near the railway earlier today",
+		"nl": "een defecte waterleiding bij het spoor eerder vandaag"
+	},
+	"619": {
+		"en": "a burst water main near the railway yesterday",
+		"nl": "een defecte waterleiding bij het spoor gisteren"
+	},
+	"620": {
+		"en": "a chemical spillage near the railway earlier today",
+		"nl": "een lekkage van chemicaliën bij het spoor eerder vandaag"
+	},
+	"621": {
+		"en": "a chemical spillage near the railway yesterday",
+		"nl": "een lekkage van chemicaliën bij het spoor gisteren"
+	},
+	"622": {
+		"en": "a fire near the railway involving gas cylinders earlier today",
+		"nl": "een gascylinder brand bij het spoor eerder vandaag"
+	},
+	"623": {
+		"en": "a fire near the railway involving gas cylinders yesterday",
+		"nl": "een gascylinder brand bij het spoor gisteren"
+	},
+	"624": {
+		"en": "a fire near the railway suspected to involve gas cylinders earlier today",
+		"nl": "een mogelijke gascylinder brand bij het spoor eerder vandaag"
+	},
+	"625": {
+		"en": "a fire near the railway suspected to involve gas cylinders yesterday",
+		"nl": "een mogelijke gascylinder brand bij het spoor gisteren"
+	},
+	"626": {
+		"en": "a fire on property near the railway earlier today",
+		"nl": "brand op een perceel bij het spoor eerder vandaag"
+	},
+	"627": {
+		"en": "a fire on property near the railway yesterday",
+		"nl": "brand op een perceel bij het spoor gisteren"
+	},
+	"628": {
+		"en": "a gas leak near the railway earlier today",
+		"nl": "een gaslekkage bij het spoor eerder vandaag"
+	},
+	"629": {
+		"en": "a gas leak near the railway yesterday",
+		"nl": "een gaslekkage bij het spoor gisteren"
+	},
+	"630": {
+		"en": "a road accident near the railway earlier today",
+		"nl": "een wegongeval bij het spoor eerder vandaag"
+	},
+	"631": {
+		"en": "a road accident near the railway yesterday",
+		"nl": "een wegongeval bij het spoor gisteren"
+	},
+	"632": {
+		"en": "a wartime bomb near the railway earlier today",
+		"nl": "een oorlogsbom bij het spoor eerder vandaag"
+	},
+	"633": {
+		"en": "a wartime bomb near the railway yesterday",
+		"nl": "een oorlogsbom bij het spoor gisteren"
+	},
+	"634": {
+		"en": "a wartime bomb which has now been made safe",
+		"nl": "een oorlogsbom die onschadelijk is gemaakt"
+	},
+	"635": {
+		"en": "ambulance service dealing with an incident near the railway earlier today",
+		"nl": "ambulance aan het werk voor een incident bij het spoor eerder vandaag"
+	},
+	"636": {
+		"en": "ambulance service dealing with an incident near the railway yesterday",
+		"nl": "ambulance aan het werk voor een incident bij het spoor gisteren"
+	},
+	"637": {
+		"en": "emergency services dealing with an incident near the railway earlier today",
+		"nl": "hulpdiensten bezig met een incident bij het spoor eerder vandaag"
+	},
+	"638": {
+		"en": "emergency services dealing with an incident near the railway yesterday",
+		"nl": "hulpdiensten bezig met een incident bij het spoor gisteren"
+	},
+	"639": {
+		"en": "fire brigade dealing with an incident near the railway earlier today",
+		"nl": "brandweer bezig met een incident bij het spoor eerder vandaag"
+	},
+	"640": {
+		"en": "fire brigade dealing with an incident near the railway yesterday",
+		"nl": "brandweer bezig met een incident bij het spoor gisteren"
+	},
+	"641": {
+		"en": "police dealing with an incident near the railway earlier today",
+		"nl": "politie bezig met een incident bij het spoor eerder vandaag"
+	},
+	"642": {
+		"en": "police dealing with an incident near the railway yesterday",
+		"nl": "politie bezig met een incident bij het spoor gisteren"
+	},
+	"643": {
+		"en": "a boat colliding with a bridge earlier today",
+		"nl": "een botsing tussen een boot en een spoorbrug eerder vandaag"
+	},
+	"644": {
+		"en": "a fault with a swing bridge over a river earlier today",
+		"nl": "een probleem met een draaibrug eerder vandaag"
+	},
+	"645": {
+		"en": "a problem with a river bridge earlier today",
+		"nl": "een probleem met een brug eerder vandaag"
+	},
+	"646": {
+		"en": "an earlier problem with line-side equipment",
+		"nl": "een probleem met apparatuur bij het spoor eerder vandaag"
+	},
+	"647": {
+		"en": "a security alert earlier today",
+		"nl": "een beveiligingswaarschuwing in een station eerder vandaag"
+	},
+	"648": {
+		"en": "a fault on this train which is now fixed",
+		"nl": "een defecte trein eerder vandaag"
+	},
+	"649": {
+		"en": "trespassers on the railway earlier in this train's journey",
+		"nl": "personen op het spoor eerder vandaag"
+	},
+	"650": {
+		"en": "trespassers on the railway earlier today",
+		"nl": "personen op het spoor eerder vandaag"
+	},
+	"651": {
+		"en": "a bicycle on the track",
+		"nl": "een fiets op het spoor"
+	},
+	"652": {
+		"en": "a road vehicle blocking the railway",
+		"nl": "een wegvoertuig op het spoor"
+	},
+	"653": {
+		"en": "a supermarket trolley on the track",
+		"nl": "een boodschappenwagen op het spoor"
+	},
+	"654": {
+		"en": "a train hitting an obstruction on the line",
+		"nl": "een aanrijding met een obstakel"
+	},
+	"655": {
+		"en": "a tree blocking the railway",
+		"nl": "een boom op het spoor"
+	},
+	"656": {
+		"en": "an obstruction on the track",
+		"nl": "een obstakel op het spoor"
+	},
+	"657": {
+		"en": "checking reports of an obstruction on the line",
+		"nl": "een mogelijk obstakel op het spoor"
+	},
+	"658": {
+		"en": "this train hitting an obstruction on the line",
+		"nl": "een aanrijding met een obstakel door deze trein"
+	},
+	"659": {
+		"en": "a bicycle on the track earlier on this train's journey",
+		"nl": "een fiets op het spoor eerder vandaag"
+	},
+	"660": {
+		"en": "a bicycle on the track earlier today",
+		"nl": "een fiets op het spoor eerder vandaag"
+	},
+	"661": {
+		"en": "a road vehicle blocking the railway earlier on this train's journey",
+		"nl": "een wegvoertuig op het spoor eerder vandaag"
+	},
+	"662": {
+		"en": "a road vehicle blocking the railway earlier today",
+		"nl": "een wegvoertuig op het spoor eerder vandaag"
+	},
+	"663": {
+		"en": "a supermarket trolley on the track earlier on this train's journey",
+		"nl": "een boodschappenwagen op het spoor eerder vandaag"
+	},
+	"664": {
+		"en": "a supermarket trolley on the track earlier today",
+		"nl": "een boodschappenwagen op het spoor eerder vandaag"
+	},
+	"665": {
+		"en": "a train hitting an obstruction on the line earlier on this train's journey",
+		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
+	},
+	"666": {
+		"en": "a train hitting an obstruction on the line earlier today",
+		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
+	},
+	"667": {
+		"en": "a tree blocking the railway earlier on this train's journey",
+		"nl": "een boom op het spoor eerder vandaag"
+	},
+	"668": {
+		"en": "a tree blocking the railway earlier today",
+		"nl": "een boom op het spoor eerder vandaag"
+	},
+	"669": {
+		"en": "an obstruction on the track earlier on this train's journey",
+		"nl": "een obstakel op het spoor eerder vandaag"
+	},
+	"670": {
+		"en": "an obstruction on the track earlier today",
+		"nl": "een obstakel op het spoor eerder vandaag"
+	},
+	"671": {
+		"en": "checking reports of an obstruction on the line earlier on this train's journey",
+		"nl": "een mogelijk obstakel op het spoor eerder vandaag"
+	},
+	"672": {
+		"en": "checking reports of an obstruction on the line earlier today",
+		"nl": "een mogelijk obstakel op het spoor eerder vandaag"
+	},
+	"673": {
+		"en": "this train hitting an obstruction on the line earlier in its journey",
+		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
+	},
+	"674": {
+		"en": "this train hitting an obstruction on the line earlier on this train's journey",
+		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
+	},
+	"675": {
+		"en": "this train hitting an obstruction on the line earlier today",
+		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
+	},
+	"676": {
+		"en": "a coach becoming uncoupled on a train",
+		"nl": "een ontkoppelde wagon"
+	},
+	"677": {
+		"en": "a coach becoming uncoupled on this train",
+		"nl": "een ontkoppelde wagon op deze trein"
+	},
+	"678": {
+		"en": "a train not stopping at a station it was supposed to",
+		"nl": "een trein die een stop gemist heeft"
+	},
+	"679": {
+		"en": "a train not stopping in the correct position at a station",
+		"nl": "een trein die niet op de juiste plaats is gestopt"
+	},
+	"680": {
+		"en": "a train's automatic braking system being activated",
+		"nl": "een automatische remingreep"
+	},
+	"681": {
+		"en": "an operational incident",
+		"nl": "een operationeel incident"
+	},
+	"682": {
+		"en": "this train not stopping at a station it was supposed to",
+		"nl": "een trein die een stop gemist heeft"
+	},
+	"683": {
+		"en": "this train not stopping in the correct position at a station",
+		"nl": "een trein die niet op de juiste plaats is gestopt"
+	},
+	"684": {
+		"en": "this train's automatic braking system being activated",
+		"nl": "een automatische remingreep"
+	},
+	"685": {
+		"en": "overcrowding",
+		"nl": "extreme drukte"
+	},
+	"686": {
+		"en": "overcrowding as this train has fewer coaches than normal",
+		"nl": "extreme drukte door een kortere trein dan gebruikelijk"
+	},
+	"687": {
+		"en": "overcrowding because an earlier train had fewer coaches than normal",
+		"nl": "extreme drukte door een kortere trein dan gebruikelijk eerder vandaag"
+	},
+	"688": {
+		"en": "overcrowding because of a concert",
+		"nl": "extreme drukte door een concert"
+	},
+	"689": {
+		"en": "overcrowding because of a football match",
+		"nl": "extreme drukte door een voetbalwedstrijd"
+	},
+	"690": {
+		"en": "overcrowding because of a marathon",
+		"nl": "extreme drukte door een marathon"
+	},
+	"691": {
+		"en": "overcrowding because of a rugby match",
+		"nl": "extreme drukte door een rugbywedstrijd"
+	},
+	"692": {
+		"en": "overcrowding because of a sporting event",
+		"nl": "extreme drukte door een sportevenement"
+	},
+	"693": {
+		"en": "overcrowding because of an earlier cancellation",
+		"nl": "extreme drukte door een geannuleerde trein eerder vandaag"
+	},
+	"694": {
+		"en": "overcrowding because of an event",
+		"nl": "extreme drukte door een evenement"
+	},
+	"695": {
+		"en": "overcrowding earlier on this train's journey",
+		"nl": "extreme drukte in deze trein eerder vandaag"
+	},
+	"696": {
+		"en": "animals on the railway",
+		"nl": "dieren op het spoor"
+	},
+	"697": {
+		"en": "cattle on the railway",
+		"nl": "vee op het spoor"
+	},
+	"698": {
+		"en": "horses on the railway",
+		"nl": "paarden op het spoor"
+	},
+	"699": {
+		"en": "sheep on the railway",
+		"nl": "schapen op het spoor"
+	},
+	"700": {
+		"en": "animals on the railway earlier today",
+		"nl": "dieren op het spoor eerder vandaag"
+	},
+	"701": {
+		"en": "cattle on the railway earlier today",
+		"nl": "vee op het spoor eerder vandaag"
+	},
+	"702": {
+		"en": "horses on the railway earlier today",
+		"nl": "paarden op het spoor eerder vandaag"
+	},
+	"703": {
+		"en": "sheep on the railway earlier today",
+		"nl": "schapen op het spoor eerder vandaag"
+	},
+	"704": {
+		"en": "passengers causing a disturbance on a train",
+		"nl": "reizigers die de rust verstoren in een trein"
+	},
+	"705": {
+		"en": "passengers causing a disturbance on this train",
+		"nl": "reizigers die de rust verstoren in deze trein"
+	},
+	"706": {
+		"en": "passengers causing a disturbance earlier in this train's journey",
+		"nl": "reizigers die de rust verstoren eerder vandaag in deze trein"
+	},
+	"707": {
+		"en": "passengers causing a disturbance on a train earlier today",
+		"nl": "reizigers die de rust verstoren in een trein eerder vandaag"
+	},
+	"708": {
+		"en": "a fault with the electric third rail earlier on this train's journey",
+		"nl": ""
+	},
+	"709": {
+		"en": "a fault with the electric third rail earlier today",
+		"nl": ""
+	},
+	"710": {
+		"en": "damage to the electric third rail earlier on this train's journey",
+		"nl": ""
+	},
+	"711": {
+		"en": "damage to the electric third rail earlier today",
+		"nl": ""
+	},
+	"712": {
+		"en": "failure of the electricity supply earlier on this train's journey",
+		"nl": ""
+	},
+	"713": {
+		"en": "failure of the electricity supply earlier today",
+		"nl": ""
+	},
+	"714": {
+		"en": "the electricity being switched off for safety reasons earlier on this train's journey",
+		"nl": ""
+	},
+	"715": {
+		"en": "the electricity being switched off for safety reasons earlier today",
+		"nl": ""
+	},
+	"716": {
+		"en": "urgent repairs to a bridge earlier today",
+		"nl": ""
+	},
+	"717": {
+		"en": "urgent repairs to a tunnel earlier today",
+		"nl": ""
+	},
+	"718": {
+		"en": "urgent repairs to the railway earlier today",
+		"nl": ""
+	},
+	"719": {
+		"en": "urgent repairs to the track earlier today",
+		"nl": ""
+	},
+	"720": {
+		"en": "expected industrial action earlier today",
+		"nl": ""
+	},
+	"721": {
+		"en": "expected industrial action yesterday",
+		"nl": ""
+	},
+	"722": {
+		"en": "industrial action earlier today",
+		"nl": ""
+	},
+	"723": {
+		"en": "industrial action yesterday",
+		"nl": ""
+	},
+	"724": {
+		"en": "an object being caught on the overhead electric wires earlier on this train's journey",
+		"nl": ""
+	},
+	"725": {
+		"en": "an object being caught on the overhead electric wires earlier today",
+		"nl": ""
+	},
+	"726": {
+		"en": "damage to the overhead electric wires earlier on this train's journey",
+		"nl": ""
+	},
+	"727": {
+		"en": "damage to the overhead electric wires earlier today",
+		"nl": ""
+	},
+	"728": {
+		"en": "earlier engineering works not being finished on time",
+		"nl": ""
+	},
+	"729": {
+		"en": "a fault with the on train signalling system earlier on this train's journey",
+		"nl": ""
+	},
+	"730": {
+		"en": "a fault with the on train signalling system earlier today",
+		"nl": ""
+	},
+	"733": {
+		"en": "a fault with the signalling system earlier on this train's journey",
+		"nl": ""
+	},
+	"734": {
+		"en": "a fault with the signalling system earlier today",
+		"nl": ""
+	},
+	"737": {
+		"en": "the fire alarm sounding in a signalbox earlier on this train's journey",
+		"nl": ""
+	},
+	"738": {
+		"en": "the fire alarm sounding in a signalbox earlier today",
+		"nl": ""
+	},
+	"739": {
+		"en": "the fire alarm sounding in the signalling centre earlier on this train's journey",
+		"nl": ""
+	},
+	"740": {
+		"en": "the fire alarm sounding in the signalling centre earlier today",
+		"nl": ""
+	},
+	"741": {
+		"en": "attempted theft of overhead line electrification equipment earlier today",
+		"nl": ""
+	},
+	"742": {
+		"en": "attempted theft of overhead line electrification equipment yesterday",
+		"nl": ""
+	},
+	"743": {
+		"en": "attempted theft of railway equipment earlier today",
+		"nl": ""
+	},
+	"744": {
+		"en": "attempted theft of railway equipment yesterday",
+		"nl": ""
+	},
+	"745": {
+		"en": "attempted theft of signalling cables earlier today",
+		"nl": ""
+	},
+	"746": {
+		"en": "attempted theft of signalling cables yesterday",
+		"nl": ""
+	},
+	"747": {
+		"en": "attempted theft of third rail electrification equipment earlier today",
+		"nl": ""
+	},
+	"748": {
+		"en": "attempted theft of third rail electrification equipment yesterday",
+		"nl": ""
+	},
+	"749": {
+		"en": "theft of overhead line electrification equipment earlier today",
+		"nl": ""
+	},
+	"750": {
+		"en": "theft of overhead line electrification equipment yesterday",
+		"nl": ""
+	},
+	"751": {
+		"en": "theft of railway equipment earlier today",
+		"nl": ""
+	},
+	"752": {
+		"en": "theft of railway equipment yesterday",
+		"nl": ""
+	},
+	"753": {
+		"en": "theft of signalling cables earlier today",
+		"nl": ""
+	},
+	"754": {
+		"en": "theft of signalling cables yesterday",
+		"nl": ""
+	},
+	"755": {
+		"en": "theft of third rail electrification equipment earlier today",
+		"nl": ""
+	},
+	"756": {
+		"en": "theft of third rail electrification equipment yesterday",
+		"nl": ""
+	},
+	"757": {
+		"en": "vandalism at a station earlier today",
+		"nl": ""
+	},
+	"758": {
+		"en": "vandalism at a station yesterday",
+		"nl": ""
+	},
+	"759": {
+		"en": "vandalism of railway equipment earlier today",
+		"nl": ""
+	},
+	"760": {
+		"en": "vandalism of railway equipment yesterday",
+		"nl": ""
+	},
+	"761": {
+		"en": "vandalism on a train earlier today",
+		"nl": ""
+	},
+	"762": {
+		"en": "vandalism on a train yesterday",
+		"nl": ""
+	},
+	"763": {
+		"en": "vandalism on this train earlier today",
+		"nl": ""
+	},
+	"764": {
+		"en": "vandalism on this train yesterday",
+		"nl": ""
+	},
+	"765": {
+		"en": "a fault with the electric third rail",
+		"nl": ""
+	},
+	"766": {
+		"en": "damage to the electric third rail",
+		"nl": ""
+	},
+	"767": {
+		"en": "failure of the electricity supply",
+		"nl": ""
+	},
+	"768": {
+		"en": "the electricity being switched off for safety reasons",
+		"nl": ""
+	},
+	"769": {
+		"en": "urgent repairs to a bridge",
+		"nl": ""
+	},
+	"770": {
+		"en": "urgent repairs to a tunnel",
+		"nl": ""
+	},
+	"771": {
+		"en": "urgent repairs to the railway",
+		"nl": ""
+	},
+	"772": {
+		"en": "urgent repairs to the track",
+		"nl": ""
+	},
+	"773": {
+		"en": "the emergency services dealing with an incident earlier today",
+		"nl": ""
+	},
+	"774": {
+		"en": "ambulance service dealing with an incident",
+		"nl": ""
+	},
+	"775": {
+		"en": "fire brigade dealing with an incident",
+		"nl": ""
+	},
+	"776": {
+		"en": "police dealing with an incident",
+		"nl": ""
+	},
+	"777": {
+		"en": "the emergency services dealing with an incident",
+		"nl": ""
+	},
+	"778": {
+		"en": "the fire alarm sounding at a station",
+		"nl": ""
+	},
+	"779": {
+		"en": "the fire alarm sounding at a station earlier today",
+		"nl": ""
+	},
+	"780": {
+		"en": "a burst water main flooding the railway",
+		"nl": ""
+	},
+	"781": {
+		"en": "a river flooding the railway",
+		"nl": ""
+	},
+	"782": {
+		"en": "flood water making the railway potentially unsafe",
+		"nl": ""
+	},
+	"783": {
+		"en": "flooding",
+		"nl": ""
+	},
+	"784": {
+		"en": "heavy rain flooding the railway",
+		"nl": ""
+	},
+	"785": {
+		"en": "predicted flooding",
+		"nl": ""
+	},
+	"786": {
+		"en": "the sea flooding the railway",
+		"nl": ""
+	},
+	"787": {
+		"en": "a burst water main flooding the railway earlier today",
+		"nl": ""
+	},
+	"788": {
+		"en": "a river flooding the railway earlier today",
+		"nl": ""
+	},
+	"789": {
+		"en": "flood water making the railway potentially unsafe earlier today",
+		"nl": ""
+	},
+	"790": {
+		"en": "flooding earlier in this train's journey",
+		"nl": ""
+	},
+	"791": {
+		"en": "flooding earlier today",
+		"nl": ""
+	},
+	"792": {
+		"en": "heavy rain flooding the railway earlier today",
+		"nl": ""
+	},
+	"793": {
+		"en": "predicted flooding earlier today",
+		"nl": ""
+	},
+	"794": {
+		"en": "the sea flooding the railway earlier today",
+		"nl": ""
+	},
+	"795": {
+		"en": "thick fog",
+		"nl": ""
+	},
+	"796": {
+		"en": "thick fog earlier in this train's journey",
+		"nl": ""
+	},
+	"797": {
+		"en": "thick fog earlier today",
+		"nl": ""
+	},
+	"798": {
+		"en": "forecasted high winds",
+		"nl": ""
+	},
+	"799": {
+		"en": "high winds",
+		"nl": ""
+	},
+	"800": {
+		"en": "high winds earlier in this train's journey",
+		"nl": ""
+	},
+	"801": {
+		"en": "high winds earlier today",
+		"nl": ""
+	},
+	"802": {
+		"en": "expected industrial action",
+		"nl": ""
+	},
+	"803": {
+		"en": "industrial action",
+		"nl": ""
+	},
+	"804": {
+		"en": "lightning damaging a station",
+		"nl": ""
+	},
+	"805": {
+		"en": "lightning damaging a train",
+		"nl": ""
+	},
+	"806": {
+		"en": "lightning damaging equipment",
+		"nl": ""
+	},
+	"807": {
+		"en": "lightning damaging the electricity supply",
+		"nl": ""
+	},
+	"808": {
+		"en": "lightning damaging the signalling system",
+		"nl": ""
+	},
+	"809": {
+		"en": "lightning damaging this train",
+		"nl": ""
+	},
+	"810": {
+		"en": "an object being caught on the overhead electric wires",
+		"nl": ""
+	},
+	"811": {
+		"en": "damage to the overhead electric wires",
+		"nl": ""
+	},
+	"812": {
+		"en": "engineering works not being finished on time",
+		"nl": ""
+	},
+	"813": {
+		"en": "forecasted slippery rails",
+		"nl": ""
+	},
+	"814": {
+		"en": "ice preventing this train getting electricity from the third rail",
+		"nl": ""
+	},
+	"815": {
+		"en": "ice preventing trains getting electricity from the third rail",
+		"nl": ""
+	},
+	"816": {
+		"en": "slippery rails",
+		"nl": ""
+	},
+	"817": {
+		"en": "slippery rails earlier in this train's journey",
+		"nl": ""
+	},
+	"818": {
+		"en": "slippery rails earlier today",
+		"nl": ""
+	},
+	"819": {
+		"en": "forecasted severe weather",
+		"nl": ""
+	},
+	"820": {
+		"en": "severe weather",
+		"nl": ""
+	},
+	"821": {
+		"en": "severe weather earlier",
+		"nl": ""
+	},
+	"822": {
+		"en": "severe weather earlier in this train's journey",
+		"nl": ""
+	},
+	"823": {
+		"en": "severe weather earlier today",
+		"nl": ""
+	},
+	"824": {
+		"en": "a safety inspection of the track",
+		"nl": ""
+	},
+	"825": {
+		"en": "a safety inspection on a train",
+		"nl": ""
+	},
+	"826": {
+		"en": "a safety inspection on this train",
+		"nl": ""
+	},
+	"827": {
+		"en": "a safety inspection of the track earlier today",
+		"nl": ""
+	},
+	"828": {
+		"en": "a safety inspection on a train earlier today",
+		"nl": ""
+	},
+	"829": {
+		"en": "a safety inspection on this train earlier in its journey",
+		"nl": ""
+	},
+	"830": {
+		"en": "a fault with the on train signalling system",
+		"nl": ""
+	},
+	"831": {
+		"en": "a fault with the radio system between the driver and the signaller",
+		"nl": ""
+	},
+	"832": {
+		"en": "a fault with the signalling system",
+		"nl": ""
+	},
+	"834": {
+		"en": "the fire alarm sounding in a signalbox",
+		"nl": ""
+	},
+	"835": {
+		"en": "the fire alarm sounding in the signalling centre",
+		"nl": ""
+	},
+	"836": {
+		"en": "forecasted heavy snow",
+		"nl": ""
+	},
+	"837": {
+		"en": "heavy snow",
+		"nl": ""
+	},
+	"838": {
+		"en": "heavy snow earlier in this train's journey",
+		"nl": ""
+	},
+	"839": {
+		"en": "heavy snow earlier today",
+		"nl": ""
+	},
+	"840": {
+		"en": "heavy snow over recent days",
+		"nl": ""
+	},
+	"841": {
+		"en": "a speed restriction",
+		"nl": ""
+	},
+	"842": {
+		"en": "a speed restriction because of fog",
+		"nl": ""
+	},
+	"843": {
+		"en": "a speed restriction because of fog earlier on this train's journey",
+		"nl": ""
+	},
+	"844": {
+		"en": "a speed restriction because of fog earlier today",
+		"nl": ""
+	},
+	"845": {
+		"en": "a speed restriction because of heavy rain",
+		"nl": ""
+	},
+	"846": {
+		"en": "a speed restriction because of heavy rain earlier on this train's journey",
+		"nl": ""
+	},
+	"847": {
+		"en": "a speed restriction because of heavy rain earlier today",
+		"nl": ""
+	},
+	"848": {
+		"en": "a speed restriction because of high track temperatures",
+		"nl": ""
+	},
+	"849": {
+		"en": "a speed restriction because of high track temperatures earlier on this train's journey",
+		"nl": ""
+	},
+	"850": {
+		"en": "a speed restriction because of high track temperatures earlier today",
+		"nl": ""
+	},
+	"851": {
+		"en": "a speed restriction because of high winds",
+		"nl": ""
+	},
+	"852": {
+		"en": "a speed restriction because of high winds earlier on this train's journey",
+		"nl": ""
+	},
+	"853": {
+		"en": "a speed restriction because of high winds earlier today",
+		"nl": ""
+	},
+	"854": {
+		"en": "a speed restriction because of severe weather",
+		"nl": ""
+	},
+	"855": {
+		"en": "a speed restriction because of severe weather earlier on this train's journey",
+		"nl": ""
+	},
+	"856": {
+		"en": "a speed restriction because of severe weather earlier today",
+		"nl": ""
+	},
+	"857": {
+		"en": "a speed restriction because of snow and ice",
+		"nl": ""
+	},
+	"858": {
+		"en": "a speed restriction because of snow and ice earlier on this train's journey",
+		"nl": ""
+	},
+	"859": {
+		"en": "a speed restriction because of snow and ice earlier today",
+		"nl": ""
+	},
+	"860": {
+		"en": "a speed restriction earlier on this train's journey",
+		"nl": ""
+	},
+	"861": {
+		"en": "a speed restriction earlier today",
+		"nl": ""
+	},
+	"862": {
+		"en": "a speed restriction in a tunnel",
+		"nl": ""
+	},
+	"863": {
+		"en": "a speed restriction in a tunnel earlier on this train's journey",
+		"nl": ""
+	},
+	"864": {
+		"en": "a speed restriction in a tunnel earlier today",
+		"nl": ""
+	},
+	"865": {
+		"en": "a speed restriction over a bridge",
+		"nl": ""
+	},
+	"866": {
+		"en": "a speed restriction over a bridge earlier on this train's journey",
+		"nl": ""
+	},
+	"867": {
+		"en": "a speed restriction over a bridge earlier today",
+		"nl": ""
+	},
+	"868": {
+		"en": "a speed restriction over an embankment",
+		"nl": ""
+	},
+	"869": {
+		"en": "a speed restriction over an embankment earlier on this train's journey",
+		"nl": ""
+	},
+	"870": {
+		"en": "a speed restriction over an embankment earlier today",
+		"nl": ""
+	},
+	"871": {
+		"en": "a speed restriction over defective track",
+		"nl": ""
+	},
+	"872": {
+		"en": "a speed restriction over defective track earlier on this train's journey",
+		"nl": ""
+	},
+	"873": {
+		"en": "a speed restriction over defective track earlier today",
+		"nl": ""
+	},
+	"874": {
+		"en": "attempted theft of overhead line electrification equipment",
+		"nl": ""
+	},
+	"875": {
+		"en": "attempted theft of railway equipment",
+		"nl": ""
+	},
+	"876": {
+		"en": "attempted theft of signalling cables",
+		"nl": ""
+	},
+	"877": {
+		"en": "attempted theft of third rail electrification equipment",
+		"nl": ""
+	},
+	"878": {
+		"en": "theft of overhead line electrification equipment",
+		"nl": ""
+	},
+	"879": {
+		"en": "theft of railway equipment",
+		"nl": ""
+	},
+	"880": {
+		"en": "theft of signalling cables",
+		"nl": ""
+	},
+	"881": {
+		"en": "theft of third rail electrification equipment",
+		"nl": ""
+	},
+	"882": {
+		"en": "vandalism at a station",
+		"nl": ""
+	},
+	"883": {
+		"en": "vandalism of railway equipment",
+		"nl": ""
+	},
+	"884": {
+		"en": "vandalism on a train",
+		"nl": ""
+	},
+	"885": {
+		"en": "vandalism on this train",
+		"nl": ""
+	},
+	"886": {
+		"en": "train crew being delayed",
+		"nl": ""
+	},
+	"887": {
+		"en": "train crew being delayed by service disruption",
+		"nl": ""
+	},
+	"888": {
+		"en": "a bridge being damaged",
+		"nl": ""
+	},
+	"889": {
+		"en": "a bridge being damaged by a boat",
+		"nl": ""
+	},
+	"890": {
+		"en": "a bridge being damaged by a road vehicle",
+		"nl": ""
+	},
+	"891": {
+		"en": "a bridge having collapsed",
+		"nl": ""
+	},
+	"892": {
+		"en": "a broken rail",
+		"nl": ""
+	},
+	"893": {
+		"en": "a late departure while the train was cleaned specially",
+		"nl": ""
+	},
+	"894": {
+		"en": "a late running freight train",
+		"nl": ""
+	},
+	"895": {
+		"en": "a late running train being in front of this one",
+		"nl": ""
+	},
+	"896": {
+		"en": "a points failure",
+		"nl": ""
+	},
+	"897": {
+		"en": "a power cut at the station",
+		"nl": ""
+	},
+	"898": {
+		"en": "a problem with the station lighting",
+		"nl": ""
+	},
+	"899": {
+		"en": "a rail buckling in the heat",
+		"nl": ""
+	},
+	"900": {
+		"en": "a railway embankment being damaged",
+		"nl": ""
+	},
+	"901": {
+		"en": "a shortage of station staff",
+		"nl": ""
+	},
+	"902": {
+		"en": "a tunnel being closed for safety reasons",
+		"nl": ""
+	},
+	"903": {
+		"en": "an incident at the airport",
+		"nl": ""
+	},
+	"904": {
+		"en": "congestion",
+		"nl": ""
+	},
+	"905": {
+		"en": "the communication alarm being activated on a train",
+		"nl": ""
+	},
+	"906": {
+		"en": "the communication alarm being activated on this train",
+		"nl": ""
+	},
+	"907": {
+		"en": "the train departing late to maintain customer connections",
+		"nl": ""
+	},
+	"908": {
+		"en": "the train making extra stops because a train was cancelled",
+		"nl": ""
+	},
+	"909": {
+		"en": "the train making extra stops because of service disruption",
+		"nl": ""
+	},
+	"910": {
+		"en": "waiting for a part of the train to be attached",
+		"nl": ""
+	},
+	"911": {
+		"en": "a fault on a train",
+		"nl": ""
+	},
+	"912": {
+		"en": "a problem with platform equipment",
+		"nl": ""
+	},
+	"913": {
+		"en": "a fault on a train earlier",
+		"nl": ""
+	},
+	"914": {
+		"en": "issues with communication systems",
+		"nl": ""
+	},
+	"915": {
+		"en": "a problem in the depot",
+		"nl": ""
+	},
+	"916": {
+		"en": "signalling staff being unavailable",
+		"nl": ""
+	},
+	"917": {
+		"en": "staff training",
+		"nl": ""
+	},
+	"918": {
+		"en": "a short-notice change to the timetable",
+		"nl": ""
+	},
+	"919": {
+		"en": "misuse of a level crossing",
+		"nl": ""
+	},
+	"920": {
+		"en": "a member of train crew being unavailable",
+		"nl": ""
+	},
+	"921": {
+		"en": "a member of train crew being unavailable earlier",
+		"nl": ""
+	}
+}
