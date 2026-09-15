@@ -193,7 +193,7 @@
 				"de": "Hinweis",
 				"fr": "Remarque",
 				"it": "Nota",
-				"fi": "Huomiot"
+				"fi": "Huomio"
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence.",
