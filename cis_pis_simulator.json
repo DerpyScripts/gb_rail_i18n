@@ -1,0 +1,227 @@
+{
+	"cis-oebb-formations": {
+		"default": "de",
+		"strings": {
+			"headerTitle": {
+				"de": "Wagenreihung",
+				"en": "Train-formation Indicator"
+			},
+			"headerYourPosition": {
+				"de": "Ihr Standort",
+				"en": "Your position"
+			},
+			"servicePlatform": {
+				"de": "Bstg.",
+				"en": "Plat."
+			},
+			"serviceCarriageNotInUse": {
+				"de": "Wagen gesperrt",
+				"en": "Not in service"
+			},
+			"facilityKey-businessClass": {
+				"de": "Businessabteil",
+				"en": "Business class"
+			},
+			"facilityKey-firstClass": {
+				"de": "Erste Klasse",
+				"en": "First class"
+			},
+			"facilityKey-comfortClass": {
+				"de": "Comfort Klasse",
+				"en": "Comfort class"
+			},
+			"facilityKey-standardClass": {
+				"de": "Zweite Klasse",
+				"en": "Economy class"
+			},
+			"facilityKey-restaurant": {
+				"de": "Speisewagen",
+				"en": "Dining car"
+			},
+			"facilityKey-sleeper": {
+				"de": "Schlafwagen",
+				"en": "Sleeping car"
+			},
+			"facilityKey-couchette": {
+				"de": "Liegewagen",
+				"en": "Couchette"
+			},
+			"facilityKey-carCarrier": {
+				"de": "Autotransportwagen",
+				"en": "Car carrier wagon"
+			},
+			"facilityKey-notInUse": {
+				"de": "Wagen abgesperrt",
+				"en": "Carriage closed"
+			},
+			"facilityKey-accessible": {
+				"de": "Rollstuhlabstellplatz",
+				"en": "Wheelchair parking"
+			},
+			"facilityKey-bicycle": {
+				"de": "Fahrradabstellplatz",
+				"en": "Bicycle parking"
+			},
+			"facilityKey-family": {
+				"de": "Familienbereich",
+				"en": "Family zone"
+			},
+			"facilityKey-pet": {
+				"de": "-",
+				"en": "Pet zone"
+			},
+			"facilityKey-luggage": {
+				"de": "-",
+				"en": "Luggage storage"
+			},
+			"facilityKey-quiet": {
+				"de": "Ruhebereich",
+				"en": "Quiet zone"
+			},
+			"facilityKey-bistro": {
+				"de": "Kaffee und Snacks",
+				"en": "Coffee and snacks"
+			},
+			"facilityKey-wifi": {
+				"de": "WLAN",
+				"en": "WI-FI"
+			},
+			"facilityKey-toilet": {
+				"de": "-",
+				"en": "Toilet"
+			}
+		}
+	},
+	"cis-ns-summary": {
+		"default": "nl",
+		"strings": {
+			"headerDepartureTime": {
+				"_translationNote": "As in, the time that the service is due to [depart].",
+				"de": "Abfahrt",
+				"en": "Depart",
+				"fi": "Aika",
+				"fr": "Départ",
+				"nl": "Vertrek"
+			},
+			"headerDestinationAndRemarks": {
+				"_translationNote": "Direct translation of 'to' and 'remarks' if possible, but translations of 'Destination' and 'notes' are also acceptable. Capitalise both words, and separate with a forward-slash (no space).",
+				"de": "An/Kommentare",
+				"en": "To/Remarks",
+				"fi": "Määräasema/Huomiot",
+				"fr": "À/Remarques",
+				"nl": "Naar/Opmerkingen"
+			},
+			"headerPlatformAndTrain": {
+				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language. Capitalise both words, and separate with a forward-slash (no space).",
+				"de": "Gleis/Zug",
+				"en": "Platform/Train",
+				"fi": "Raide/Juna",
+				"fr": "Quai/Train",
+				"nl": "Spoor/Trein"
+			},
+			"serviceCancelled": {
+				"_translationNote": "Capitalise as if it was the start of a sentence. Needs to work in combination with serviceReason below.",
+				"de": "Ausfall",
+				"en": "Cancelled",
+				"fi": "Peruttu",
+				"fr": "Supprimé",
+				"it": "Soppresso",
+				"nl": "Rijdt niet"
+			},
+			"serviceReason": {
+				"_translationNote": "Needs to work in combination with serviceCancelled above. An example of a reason that could follow is 'a fault on this train'.",
+				"de": "wegen",
+				"en": "due to",
+				"fi": "perumisen syy",
+				"fr": "en raison de",
+				"nl": "door"
+			},
+			"serviceLargeDelay": {
+				"_translationNote": "{hours} and {mins} will both be integers",
+				"de": "{hours}s{mins}",
+				"en": "{hours}h{mins}",
+				"fi": "{hours}t{mins}",
+				"fr": "{hours}h{mins}",
+				"it": "{hours}o{mins}",
+				"nl": "{hours}u{mins}",
+				"sv": "{hours}t{mins}"
+			}
+		}
+	},
+	"cis-sbb-summary": {
+		"default": "de",
+		"strings": {
+			"noInfo": {
+				"_translationNote": "Should not explicitly mention an app and/or website - keep it generically 'online'. Capitalise as a full sentence.",
+				"de": "Bitte konsultieren Sie den Online-Fahrplan",
+				"en": "Please consult the online timetable",
+				"fr": "Merci de vous référer à l'horaire en ligne",
+				"it": "Si prega di consultare l'orario online",
+				"nl": "Gebruik alstublieft de online dienstregeling"
+			},
+			"headerDestination": {
+				"_translationNote": "Direct translation of 'to' if possible, but a translation of 'Destination' is also acceptable.",
+				"de": "Nach",
+				"en": "To",
+				"fi": "Määräasema",
+				"fr": "Pour",
+				"it": "Per",
+				"nl": "Naar"
+			},
+			"headerOrigin": {
+				"_translationNote": "Direct translation of 'from' if possible, but a translation of 'Origin' is also acceptable.",
+				"en": "From",
+				"nl": "Van",
+				"de": "Von",
+				"fr": "De",
+				"it": "Da",
+				"fi": "Lähtöasema"
+			},
+			"headerPlatform": {
+				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language.",
+				"en": "Platform",
+				"nl": "Spoor",
+				"de": "Gleis",
+				"fr": "Voie",
+				"it": "Binario",
+				"fi": "Raide"
+			},
+			"headerNote": {
+				"_translationNote": "This column states if a service is cancelled/delayed, and shows any other message related to it. Translation of 'remarks' is acceptable if there is no direct translation for 'note'. Please assume to be singular.",
+				"en": "Note",
+				"nl": "Opmerking",
+				"de": "Hinweis",
+				"fr": "Remarque",
+				"it": "Nota",
+				"fi": "Huomiot"
+			},
+			"serviceCancelled": {
+				"_translationNote": "Capitalise as if it was the start of a sentence.",
+				"en": "Cancelled",
+				"nl": "Rijdt niet",
+				"de": "Ausfall",
+				"fr": "Supprimé",
+				"it": "Soppresso",
+				"fi": "Peruttu"
+			},
+			"serviceDelayedMins": {
+				"_translationNote": "Although this will be used as a full sentence, keep it lowercase to match SBB's style. {min} will be an integer, assumed to be >1.",
+				"en": "about {min} min delay",
+				"nl": "vertraagd met {min} min",
+				"de": "ca. {min} Min später",
+				"fr": "retard env. {min} min",
+				"it": "ca {min} min di ritardo",
+				"fi": "viivästynyt {min} min"
+			},
+			"serviceDelayedIndefinitely": {
+				"_translationNote": "Should be clear that the length of delay is unknown. Other similar words can be used if no direct translation for 'indefinitely'.",
+				"en": "Delayed indefinitely",
+				"nl": "Onbepaalde vertraging",
+				"de": "unb. Verspätung",
+				"fr": "Retard indéterminé",
+				"it": "Ritardo imprecisato",
+				"fi": "Myöhässä"
+			}
+		}
+	}
+}
