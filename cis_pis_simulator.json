@@ -177,6 +177,7 @@
 			},
 			"headerDestination": {
 				"_translationNote": "Direct translation of 'to' if possible, but a translation of 'Destination' is also acceptable.",
+				"cy": "Yn mynd i",
 				"de": "Nach",
 				"en": "To",
 				"fi": "Määräasema",
@@ -186,57 +187,61 @@
 			},
 			"headerOrigin": {
 				"_translationNote": "Direct translation of 'from' if possible, but a translation of 'Origin' is also acceptable.",
-				"en": "From",
-				"nl": "Van",
+				"cy": "Yn dod o",
 				"de": "Von",
+				"en": "From",
+				"fi": "Lähtöasema",
 				"fr": "De",
 				"it": "Da",
-				"fi": "Lähtöasema"
+				"nl": "Van"
 			},
 			"headerPlatform": {
 				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language.",
-				"en": "Platform",
-				"nl": "Spoor",
+				"cy": "Platfform",
 				"de": "Gleis",
+				"en": "Platform",
+				"fi": "Raide",
 				"fr": "Voie",
 				"it": "Binario",
-				"fi": "Raide"
+				"nl": "Spoor"
 			},
 			"headerNote": {
 				"_translationNote": "This column states if a service is cancelled/delayed, and shows any other message related to it. Translation of 'remarks' is acceptable if there is no direct translation for 'note'. Please assume to be singular.",
-				"en": "Note",
-				"nl": "Opmerking",
+				"cy": "Nodyn",
 				"de": "Hinweis",
+				"en": "Note",
+				"fi": "Huomio",
 				"fr": "Remarque",
 				"it": "Nota",
-				"fi": "Huomio"
+				"nl": "Opmerking"
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence.",
-				"en": "Cancelled",
-				"nl": "Rijdt niet",
+				"cy": "Canslwyd",
 				"de": "Ausfall",
+				"en": "Cancelled",
+				"fi": "Peruttu",
 				"fr": "Supprimé",
 				"it": "Soppresso",
-				"fi": "Peruttu"
+				"nl": "Rijdt niet"
 			},
 			"serviceDelayedMins": {
 				"_translationNote": "Although this will be used as a full sentence, keep it lowercase to match SBB's style. {min} will be an integer, assumed to be >1.",
-				"en": "about {min} min delay",
-				"nl": "vertraagd met {min} min",
 				"de": "ca. {min} Min später",
+				"en": "about {min} min delay",
+				"fi": "viivästynyt {min} min",
 				"fr": "retard env. {min} min",
 				"it": "ca {min} min di ritardo",
-				"fi": "viivästynyt {min} min"
+				"nl": "vertraagd met {min} min"
 			},
 			"serviceDelayedIndefinitely": {
 				"_translationNote": "Should be clear that the length of delay is unknown. Other similar words can be used if no direct translation for 'indefinitely'.",
-				"en": "Delayed indefinitely",
-				"nl": "Onbepaalde vertraging",
 				"de": "unb. Verspätung",
+				"en": "Delayed indefinitely",
+				"fi": "Myöhässä",
 				"fr": "Retard indéterminé",
 				"it": "Ritardo imprecisato",
-				"fi": "Myöhässä"
+				"nl": "Onbepaalde vertraging"
 			}
 		}
 	}
