@@ -1660,206 +1660,257 @@
 		"nl": "diefstal van bovenleidingsmateriaal gisteren"
 	},
 	"751": {
+		"cy": "rhywun wedi ceisio dwyn offe heddiw",
 		"en": "theft of railway equipment earlier today",
 		"nl": "diefstal van spoormateriaal eerder vandaag"
 	},
 	"752": {
+		"cy": "rhywun wedi ceisio dwyn offe",
 		"en": "theft of railway equipment yesterday",
 		"nl": "diefstal van spoormateriaal gisteren"
 	},
 	"753": {
+		"cy": "rhywun wedi dwyn ceblau sig",
 		"en": "theft of signalling cables earlier today",
 		"nl": "diefstal van seinkabels eerder vandaag"
 	},
 	"754": {
+		"cy": "rhywun wedi dwyn ceblau sig",
 		"en": "theft of signalling cables yesterday",
 		"nl": "diefstal van seinkabels gisteren"
 	},
 	"755": {
+		"cy": "rhywun wedi dwyn offer tryd gynharach heddiw",
 		"en": "theft of third rail electrification equipment earlier today",
 		"nl": "diefstal van derde rail elektrificatie materiaal eerder vandaag"
 	},
 	"756": {
+		"cy": "rhywun wedi ceisio dwyn offe drydanol",
 		"en": "theft of third rail electrification equipment yesterday",
 		"nl": "diefstal van derde rail elektrificatie materiaal gisteren"
 	},
 	"757": {
+		"cy": "fandaliaeth mewn gorsaf yn g",
 		"en": "vandalism at a station earlier today",
 		"nl": "vandalisme in een station eerder vandaag"
 	},
 	"758": {
+		"cy": "fandaliaeth mewn gorsaf ddo",
 		"en": "vandalism at a station yesterday",
 		"nl": "vandalisme in een station gisteren"
 	},
 	"759": {
+		"cy": "fandaliaeth i offer y rheilfford",
 		"en": "vandalism of railway equipment earlier today",
 		"nl": "vandalisme van spoormateriaal eerder vandaag"
 	},
 	"760": {
+		"cy": "Fandaliaeth i offer y rheilfford",
 		"en": "vandalism of railway equipment yesterday",
 		"nl": "vandalisme van spoormateriaal gisteren"
 	},
 	"761": {
+		"cy": "fandaliaeth ar drên yn gynhar",
 		"en": "vandalism on a train earlier today",
 		"nl": "vandalisme in een trein eerder vandaag"
 	},
 	"762": {
+		"cy": "fandaliaeth ar drên ddoe",
 		"en": "vandalism on a train yesterday",
 		"nl": "vandalisme in een trein gisteren"
 	},
 	"763": {
+		"cy": "fandaliaeth ar y trên yma yn g",
 		"en": "vandalism on this train earlier today",
 		"nl": "vandalisme in deze trein eerder vandaag"
 	},
 	"764": {
+		"cy": "fandaliaeth ar y trên yma ddo",
 		"en": "vandalism on this train yesterday",
 		"nl": "vandalisme in deze trein gisteren"
 	},
 	"765": {
+		"cy": "nam ar y gledren drydanol",
 		"en": "a fault with the electric third rail",
 		"nl": "een probleem met de elektrische derde rail"
 	},
 	"766": {
+		"cy": "difrod i'r gledran drydanol",
 		"en": "damage to the electric third rail",
 		"nl": "schade aan de elektrische derde rail"
 	},
 	"767": {
+		"cy": "y cyflenwad trydan wedi meth",
 		"en": "failure of the electricity supply",
 		"nl": "uitval van de elektriciteitsspanning"
 	},
 	"768": {
+		"cy": "y trydan wedi cael ei ddiffodd",
 		"en": "the electricity being switched off for safety reasons",
 		"nl": "uitschakeling van de elektriciteitsspanning voor veiligheidsredenen"
 	},
 	"769": {
+		"cy": "angen trwsio pont ar frys",
 		"en": "urgent repairs to a bridge",
 		"nl": "noodreparaties aan een brug"
 	},
 	"770": {
+		"cy": "angen trwsio twnnel ar frys",
 		"en": "urgent repairs to a tunnel",
 		"nl": "noodreparaties aan een tunnel"
 	},
 	"771": {
+		"cy": "angen trwsio'r rheilffordd ar f",
 		"en": "urgent repairs to the railway",
 		"nl": "noodreparaties aan het spoor"
 	},
 	"772": {
+		"cy": "angen trwsio'r cledrau ar frys",
 		"en": "urgent repairs to the track",
 		"nl": "noodreparaties aan het spoor"
 	},
 	"773": {
+		"cy": "y gwasanaethau brys wedi bo gynharach heddiw",
 		"en": "the emergency services dealing with an incident earlier today",
 		"nl": "de hulpdiensten die bezig was met een incident eerder vandaag"
 	},
 	"774": {
+		"cy": "y gwasanaeth ambiwlans yn d",
 		"en": "ambulance service dealing with an incident",
 		"nl": "de ambulancedienst die bezig is met een incident"
 	},
 	"775": {
+		"cy": "y frigâd dân yn delio gyda digw",
 		"en": "fire brigade dealing with an incident",
 		"nl": "de brandweer die bezig is met een incident"
 	},
 	"776": {
+		"cy": "yr heddlu'n delio gyda digwyd",
 		"en": "police dealing with an incident",
 		"nl": "de politie die bezig is met een incident"
 	},
 	"777": {
+		"cy": "y gwasanaethau brys yn delio",
 		"en": "the emergency services dealing with an incident",
 		"nl": "de hulpdiensten die bezig zijn met een incident"
 	},
 	"778": {
+		"cy": "y larwm tân yn canu mewn go",
 		"en": "the fire alarm sounding at a station",
 		"nl": "een brandalarm in een station"
 	},
 	"779": {
+		"cy": "y larwm tân wedi canu mewn",
 		"en": "the fire alarm sounding at a station earlier today",
 		"nl": "een brandalarm in een station eerder vandaag"
 	},
 	"780": {
+		"cy": "Prif bibell ddŵr wedi byrstio a rheilffordd",
 		"en": "a burst water main flooding the railway",
 		"nl": "een gesprongen waterleiding die het spoor laat overstromen"
 	},
 	"781": {
+		"cy": "afon wedi gorlifo ar y rheilffo",
 		"en": "a river flooding the railway",
 		"nl": "een rivier die het spoor laat overstromen"
 	},
 	"782": {
+		"cy": "dŵr llifogydd yn",
 		"en": "flood water making the railway potentially unsafe",
 		"nl": "een overstroming welke de veiligheid van de spoorwegen in geding brengt"
 	},
 	"783": {
+		"cy": "llifogydd",
 		"en": "flooding",
 		"nl": "een overstroming"
 	},
 	"784": {
+		"cy": "glaw trwm wedi achosi llifogy",
 		"en": "heavy rain flooding the railway",
 		"nl": "zware regenval die het spoor laat overstromen"
 	},
 	"785": {
+		"cy": "rhagweld llifogydd",
 		"en": "predicted flooding",
 		"nl": "een verwachte overstroming"
 	},
 	"786": {
+		"cy": "y môr wedi gorlifo dros y rhei",
 		"en": "the sea flooding the railway",
 		"nl": "de zee die het spoor laat overstromen"
 	},
 	"787": {
+		"cy": "prif bibell ddŵr wedi byrstio a rheilffordd yn gynharach hedd",
 		"en": "a burst water main flooding the railway earlier today",
 		"nl": "een gesprongen waterleiding die het spoor laat overstromen eerder vandaag"
 	},
 	"788": {
+		"cy": "afon wedi gorlifo ar y rheilffo",
 		"en": "a river flooding the railway earlier today",
 		"nl": "een rivier die het spoor laat overstromen eerder vandaag"
 	},
 	"789": {
+		"cy": "dŵr llifogydd o bosibl yn gwn gynharach heddiw",
 		"en": "flood water making the railway potentially unsafe earlier today",
 		"nl": ""
 	},
 	"790": {
+		"cy": "llifogydd yn gynharach ar dait",
 		"en": "flooding earlier in this train's journey",
 		"nl": ""
 	},
 	"791": {
+		"cy": "llifogydd yn gynharach heddiw",
 		"en": "flooding earlier today",
 		"nl": ""
 	},
 	"792": {
+		"cy": "glaw trwm wedi achosi llifogy heddiw",
 		"en": "heavy rain flooding the railway earlier today",
 		"nl": ""
 	},
 	"793": {
+		"cy": "rhagweld llifogydd yn gynhar",
 		"en": "predicted flooding earlier today",
 		"nl": ""
 	},
 	"794": {
+		"cy": "y môr wedi gorlifo dros y rhei",
 		"en": "the sea flooding the railway earlier today",
 		"nl": ""
 	},
 	"795": {
+		"cy": "niwl trwchus",
 		"en": "thick fog",
 		"nl": ""
 	},
 	"796": {
+		"cy": "niwl trwchus yn gynharach ar",
 		"en": "thick fog earlier in this train's journey",
 		"nl": ""
 	},
 	"797": {
+		"cy": "niwl trwchus yn gynharach he",
 		"en": "thick fog earlier today",
 		"nl": ""
 	},
 	"798": {
+		"cy": "rhagolygon gwyntoedd cryf",
 		"en": "forecasted high winds",
 		"nl": ""
 	},
 	"799": {
+		"cy": "gwyntoedd cryf",
 		"en": "high winds",
 		"nl": ""
 	},
 	"800": {
+		"cy": "gwyntoedd cryf yn gynharach",
 		"en": "high winds earlier in this train's journey",
 		"nl": ""
 	},
 	"801": {
+		"cy": "gwyntoedd cryf yn gynharach",
 		"en": "high winds earlier today",
 		"nl": ""
 	},
