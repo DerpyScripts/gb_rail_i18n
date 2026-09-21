@@ -97,6 +97,7 @@
 		"strings": {
 			"headerDepartureTime": {
 				"_translationNote": "As in, the time that the service is due to [depart].",
+				"cy": "Gadael",
 				"de": "Abfahrt",
 				"en": "Depart",
 				"fi": "Aika",
@@ -105,6 +106,7 @@
 			},
 			"headerDestinationAndRemarks": {
 				"_translationNote": "Direct translation of 'to' and 'remarks' if possible, but translations of 'Destination' and 'notes' are also acceptable. Capitalise both words, and separate with a forward-slash (no space).",
+				"cy": "Yn mynd i/Sylwadau",
 				"de": "An/Kommentare",
 				"en": "To/Remarks",
 				"fi": "Määräasema/Huomiot",
@@ -113,6 +115,7 @@
 			},
 			"headerPlatformAndTrain": {
 				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language. Capitalise both words, and separate with a forward-slash (no space).",
+				"cy": "Platfform/Trên",
 				"de": "Gleis/Zug",
 				"en": "Platform/Train",
 				"fi": "Raide/Juna",
@@ -121,6 +124,7 @@
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence. Needs to work in combination with serviceReason below.",
+				"cy": "Canslwyd",
 				"de": "Ausfall",
 				"en": "Cancelled",
 				"fi": "Peruttu",
@@ -130,6 +134,7 @@
 			},
 			"serviceReason": {
 				"_translationNote": "Needs to work in combination with serviceCancelled above. An example of a reason that could follow is 'a fault on this train'.",
+				"cy": "oherwydd",
 				"de": "wegen",
 				"en": "due to",
 				"fi": "perumisen syy",
@@ -138,6 +143,7 @@
 			},
 			"serviceLargeDelay": {
 				"_translationNote": "{hours} and {mins} will both be integers",
+				"cy": "{hours}a{mins}",
 				"de": "{hours}s{mins}",
 				"en": "{hours}h{mins}",
 				"fi": "{hours}t{mins}",
