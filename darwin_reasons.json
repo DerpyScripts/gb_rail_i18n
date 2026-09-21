@@ -430,986 +430,1232 @@
 		"nl": "werkzaamheden"
 	},
 	"501": {
+		"cy": "Trên wedi torri i lawr",
 		"en": "a broken down train",
 		"nl": "een defecte trein"
 	},
 	"502": {
+		"cy": "ffenest flaen y trên wedi torri",
 		"en": "a broken windscreen on the train",
 		"nl": "een defecte voorruit"
 	},
 	"503": {
+		"cy": "prinder trenau yn sgil difrod d",
 		"en": "a shortage of trains because of accident damage",
 		"nl": "een tekort aan materieel door ongelukschade"
 	},
 	"504": {
+		"cy": "prinder trenau yn sgil archwili",
 		"en": "a shortage of trains because of extra safety inspections",
 		"nl": "een tekort aan materieel door extra veiligheidsinspecties"
 	},
 	"505": {
+		"cy": "prinder trenau yn sgil difrod d",
 		"en": "a shortage of trains because of vandalism",
 		"nl": "een tekort aan materieel door vandalisme"
 	},
 	"506": {
+		"cy": "prinder trenau yn sgil difrod g",
 		"en": "a shortage of trains following damage by snow and ice",
 		"nl": "een tekort aan materieel door sneeuw en ijs"
 	},
 	"507": {
+		"cy": "angen trwsio mwy o drenau n",
 		"en": "more trains than usual needing repairs at the same time",
 		"nl": "meer materieel dan normaal gelijktijdig benodigd voor onderhoud"
 	},
 	"508": {
+		"cy": "y trên ar gyfer y gwasanaeth y",
 		"en": "the train for this service having broken down",
 		"nl": "het materieel dat deze rit had moeten rijden is defect geraakt"
 	},
 	"509": {
+		"cy": "y trên yma wedi torri i lawr",
 		"en": "this train breaking down",
 		"nl": "deze trein is kapot gegaan"
 	},
 	"510": {
+		"cy": "gwrthdrawiad rhwng trenau",
 		"en": "a collision between trains",
 		"nl": "een botsing tussen treinen"
 	},
 	"511": {
+		"cy": "gwrthdrawiad gyda'r byffer m",
 		"en": "a collision with the buffers at a station",
 		"nl": "een botsing met het stootblok bij een station"
 	},
 	"512": {
+		"cy": "trên wedi mynd oddi ar y cled",
 		"en": "a derailed train",
 		"nl": "een ontspoorde trein"
 	},
 	"513": {
+		"cy": "trên yn dod oddi ar y cledrau",
 		"en": "a derailment within the depot",
 		"nl": "een ontsporing in het depot"
 	},
 	"514": {
+		"cy": "trên yn dod oddi ar y cledrau",
 		"en": "a low speed derailment",
 		"nl": "een lage snelheid ontsporing"
 	},
 	"515": {
+		"cy": "trên wedi cael damwain",
 		"en": "a train being involved in an accident",
 		"nl": "een trein dat betrokken is bij een ongeval"
 	},
 	"516": {
+		"cy": "trenau wedi bod mewn damw",
 		"en": "trains being involved in an accident",
 		"nl": "meerdere treinen dat betrokken zijn bij een ongeval"
 	},
 	"517": {
+		"cy": "tân mewn gorsaf",
 		"en": "a fire at a station",
 		"nl": "brand in een staiton"
 	},
 	"518": {
+		"cy": "tân mewn gorsaf yn gynharac",
 		"en": "a fire at a station earlier today",
 		"nl": "brand in een station eerder vandaag"
 	},
 	"519": {
+		"cy": "tirlithriad",
 		"en": "a landslip",
 		"nl": "een aardverzakking"
 	},
 	"520": {
+		"cy": "tân wrth ymyl y cledrau",
 		"en": "a fire next to the track",
 		"nl": "brand bij het spoor"
 	},
 	"521": {
+		"cy": "tân ar drên",
 		"en": "a fire on a train",
 		"nl": "brand in een trein"
 	},
 	"522": {
+		"cy": "aelod o staff y trên wedi cael",
 		"en": "a member of on train staff being taken ill",
 		"nl": "ziekte van treinpersoneel"
 	},
 	"523": {
+		"cy": "prinder staff ar y trên",
 		"en": "a shortage of on train staff",
 		"nl": "een tekort aan personeel"
 	},
 	"524": {
+		"cy": "prinder goruchwylwyr ar y trê",
 		"en": "a shortage of train conductors",
 		"nl": "een tekort aan hoofdconducteurs"
 	},
 	"525": {
+		"cy": "prinder criw trenau",
 		"en": "a shortage of train crew",
 		"nl": "een tekort aan treinpersoneel"
 	},
 	"526": {
+		"cy": "prinder gyrwyr trenau",
 		"en": "a shortage of train drivers",
 		"nl": "een tekort aan machinisten"
 	},
 	"527": {
+		"cy": "prinder giardiau trenau",
 		"en": "a shortage of train guards",
 		"nl": "een tekort aan hoofdconducteurs"
 	},
 	"528": {
+		"cy": "prinder rheolwyr trenau",
 		"en": "a shortage of train managers",
 		"nl": "een tekort aan hoofdconducteurs"
 	},
 	"529": {
+		"cy": "tywydd difrifol yn rhwystro cr",
 		"en": "severe weather preventing train crew getting to work",
 		"nl": "extreem weer waardoor treinpersoneel niet naar werk kan komen"
 	},
 	"530": {
+		"cy": "y goruchwyliwr wedi cael ei d",
 		"en": "the train conductor being taken ill",
 		"nl": "een zieke hoofdconducteur"
 	},
 	"531": {
+		"cy": "gyrrwr y trên wedi cael ei dar",
 		"en": "the train driver being taken ill",
 		"nl": "een zieke machinist"
 	},
 	"532": {
+		"cy": "giard y trên wedi cael ei daro",
 		"en": "the train guard being taken ill",
 		"nl": "een zieke hoofdconducteur"
 	},
 	"533": {
+		"cy": "rheolwr y trên wedi cael ei da",
 		"en": "the train manager being taken ill",
 		"nl": "een zieke hoofdconducteur"
 	},
 	"534": {
+		"cy": "teithiwr wedi cael ei daro'n w",
 		"en": "a passenger being taken ill at a station",
 		"nl": "een zieke passagier in een station"
 	},
 	"535": {
+		"cy": "teithiwr wedi cael ei daro'n w",
 		"en": "a passenger being taken ill on a train",
 		"nl": "een zieke passagier in een trein"
 	},
 	"536": {
+		"cy": "teithiwr wedi cael ei daro'n w",
 		"en": "a passenger being taken ill on this train",
 		"nl": "een zieke passagier in deze trein"
 	},
 	"537": {
+		"cy": "teithiwr wedi'i daro'n wael m",
 		"en": "a passenger being taken ill at a station earlier today",
 		"nl": "een zieke passagier in een station eerder vandaag"
 	},
 	"538": {
+		"cy": "teithiwr wedi'i daro'n wael ar",
 		"en": "a passenger being taken ill on a train earlier today",
 		"nl": "een zieke passagier in een trein eerder vandaag"
 	},
 	"539": {
+		"cy": "teithiwr wedi'i daro'n wael ar daith",
 		"en": "a passenger being taken ill on this train earlier in its journey",
 		"nl": "een zieke passagier in deze trein eerder deze rit"
 	},
 	"540": {
+		"cy": "person wedi cael ei daro gan d",
 		"en": "a person being hit by a train",
 		"nl": "een aanrijding met een persoon"
 	},
 	"541": {
+		"cy": "person wedi cael ei daro gan d",
 		"en": "a person being hit by a train earlier today",
 		"nl": "een aanrijding met een persoon eerder vandaag"
 	},
 	"542": {
+		"cy": "gwrthdrawiad ar groesfan rei",
 		"en": "a collision at a level crossing",
 		"nl": "een aanrijding bij een spoorwegovergang"
 	},
 	"543": {
+		"cy": "nam ar y bariau ar groesfan re",
 		"en": "a fault with barriers at a level crossing",
 		"nl": "een defect aan de slagbomen van een spoorwegovergang"
 	},
 	"544": {
+		"cy": "damwain ffordd ar groesfan r",
 		"en": "a road accident at a level crossing",
 		"nl": "een wegongeval bij een spoorwegovergang"
 	},
 	"545": {
+		"cy": "cerbyd ffordd wedi taro yn er",
 		"en": "a road vehicle colliding with level crossing barriers",
 		"nl": "een aanrijding tussen een wegvoertuig een een slagboom van een spoorwegovergang"
 	},
 	"546": {
+		"cy": "cerbyd ffordd wedi difrodi'r c",
 		"en": "a road vehicle damaging track at a level crossing",
 		"nl": "een wegvoertuig dat het spoor op een spoorwegovergang heeft beschadigd"
 	},
 	"547": {
+		"cy": "problem dan ymchwiliad",
 		"en": "a problem currently under investigation",
 		"nl": "een probleem wat word onderzocht"
 	},
 	"548": {
+		"cy": "prif bibell ddŵr wedi byrstio g",
 		"en": "a burst water main near the railway",
 		"nl": "een defecte waterleiding bij het spoor"
 	},
 	"549": {
+		"cy": "gollyngiad cemegol ger y rhei",
 		"en": "a chemical spillage near the railway",
 		"nl": "chemische lekkage bij het spoor"
 	},
 	"550": {
+		"cy": "tân wrth y rheilffordd yn gysy",
 		"en": "a fire near the railway involving gas cylinders",
 		"nl": "een gascylinder brand bij het spoor"
 	},
 	"551": {
+		"cy": "tân wrth y rheilffordd ac amh silindrau nwy",
 		"en": "a fire near the railway suspected to involve gas cylinders",
 		"nl": "een mogelijke gascylinder brand bij het spoor"
 	},
 	"552": {
+		"cy": "tân mewn eiddo ger y rheilffo",
 		"en": "a fire on property near the railway",
 		"nl": "brand op een perceel bij het spoor"
 	},
 	"553": {
+		"cy": "nwy wedi gollwng ger y rheilf",
 		"en": "a gas leak near the railway",
 		"nl": "gaslekkage bij het spoor"
 	},
 	"554": {
+		"cy": "damwain ffordd ger y rheilffo",
 		"en": "a road accident near the railway",
 		"nl": "een wegongeluk bij het spoor"
 	},
 	"555": {
+		"cy": "bom ers adeg y rhyfel ger y rh",
 		"en": "a wartime bomb near the railway",
 		"nl": "een bom uit een oorlog bij het spoor"
 	},
 	"556": {
+		"cy": "y gwasanaeth ambiwlans yn d rheilffordd",
 		"en": "ambulance service dealing with an incident near the railway",
 		"nl": "ambulance aan het werk voor een incident bij het spoor"
 	},
 	"557": {
+		"cy": "y gwasanaethau brys yn delio",
 		"en": "emergency services dealing with an incident near the railway",
 		"nl": "hulpdiensten bezig met een incident bij het spoor"
 	},
 	"558": {
+		"cy": "y frigâd dân yn delio â digwyd",
 		"en": "fire brigade dealing with an incident near the railway",
 		"nl": "brandweer bezig met een incident bij het spoor"
 	},
 	"559": {
+		"cy": "yr heddlu'n delio gyda digwyd",
 		"en": "police dealing with an incident near the railway",
 		"nl": "politie bezig met een incident bij het spoor"
 	},
 	"560": {
+		"cy": "cwch wedi taro yn erbyn pont",
 		"en": "a boat colliding with a bridge",
 		"nl": "een botsing tussen een boot en een spoorbrug"
 	},
 	"561": {
+		"cy": "nam ar bont droi dros afon",
 		"en": "a fault with a swing bridge over a river",
 		"nl": "een probleem met een draaibrug"
 	},
 	"562": {
+		"cy": "problem gyda phont dros afon",
 		"en": "a problem with a river bridge",
 		"nl": "een probleem met een brug"
 	},
 	"563": {
+		"cy": "problem gyda chyfarpar wrth",
 		"en": "a problem with line-side equipment",
 		"nl": "een probleem met apparatuur bij het spoor"
 	},
 	"564": {
+		"cy": "rhybudd diogelwch mewn go",
 		"en": "a security alert at a station",
 		"nl": "een beveiligingswaarschuwing in een station"
 	},
 	"565": {
+		"cy": "rhybudd diogelwch ar drên ar",
 		"en": "a security alert on another train",
 		"nl": "een beveiligingswaarschuwing in een andere trein"
 	},
 	"566": {
+		"cy": "rhybudd diogelwch ar y trên y",
 		"en": "a security alert on this train",
 		"nl": "een beveiligingswaarschuwing in deze trein"
 	},
 	"567": {
+		"cy": "trên wedi mynd oddi ar y cled",
 		"en": "a train derailment earlier today",
 		"nl": "een ontsporing eerder vandaag"
 	},
 	"568": {
+		"cy": "trên wedi mynd oddi ar y cled",
 		"en": "a train derailment yesterday",
 		"nl": "een onsporing gister"
 	},
 	"569": {
+		"cy": "nam wedi digwydd wrth roi rh",
 		"en": "a fault occurring when attaching a part of a train",
 		"nl": "een defect bij het koppelen van een deel van een trein"
 	},
 	"570": {
+		"cy": "nam wedi digwydd wrth roi rh",
 		"en": "a fault occurring when attaching a part of this train",
 		"nl": "een defect bij het koppelen van een deel van deze trein"
 	},
 	"571": {
+		"cy": "nam wedi digwydd wrth dynn",
 		"en": "a fault occurring when detaching a part of a train",
 		"nl": "een defect bij het ontkoppelen van een deel van een trein"
 	},
 	"572": {
+		"cy": "nam wedi digwydd wrth dynn",
 		"en": "a fault occurring when detaching a part of this train",
 		"nl": "een defect bij het ontkoppelen van een deel van deze trein"
 	},
 	"573": {
+		"cy": "nam ar y trên sydd o flaen y t",
 		"en": "a fault on a train in front of this one",
 		"nl": "een defecte trein voor deze trein"
 	},
 	"574": {
+		"cy": "nam ar y trên yma",
 		"en": "a fault on this train",
 		"nl": "een defecte trein"
 	},
 	"575": {
+		"cy": "y trên yma yn hwyr o'r depo",
 		"en": "this train being late from the depot",
 		"nl": "vertraging bij het depot"
 	},
 	"576": {
+		"cy": "tresmaswyr ar y rheilffordd",
 		"en": "trespassers on the railway",
 		"nl": "personen op het spoor"
 	},
 	"577": {
+		"cy": "bws wedi taro yn erbyn pont",
 		"en": "a bus colliding with a bridge",
 		"nl": "een aanrijding tussen een bus en een spoorbrug"
 	},
 	"578": {
+		"cy": "lori wedi taro yn erbyn pont",
 		"en": "a lorry colliding with a bridge",
 		"nl": "een aanrijding tussen een vrachtwagen en een spoorbrug"
 	},
 	"579": {
+		"cy": "cerbyd ffordd wedi taro yn er",
 		"en": "a road vehicle colliding with a bridge",
 		"nl": "een aanrijding tussen een wegvoertuig en een spoorbrug"
 	},
 	"580": {
+		"cy": "Bws wedi taro yn erbyn pont y",
 		"en": "a bus colliding with a bridge earlier on this train's journey",
 		"nl": "een eerdere aanrijding tussen een bus en een spoorbrug"
 	},
 	"581": {
+		"cy": "bws wedi taro yn erbyn pont y",
 		"en": "a bus colliding with a bridge earlier today",
 		"nl": "een aanrijding tussen een bus en een spoorbrug eerder vandaag"
 	},
 	"582": {
+		"cy": "lori wedi taro yn erbyn pont y",
 		"en": "a lorry colliding with a bridge earlier on this train's journey",
 		"nl": "een eerdere aanrijding tussen een vrachtwagen en een spoorbrug"
 	},
 	"583": {
+		"cy": "lori wedi taro yn erbyn pont y",
 		"en": "a lorry colliding with a bridge earlier today",
 		"nl": "een aanrijding tussen een vrachtwagen en een spoorbrug eerder vandaag"
 	},
 	"584": {
+		"cy": "cerbyd ffordd wedi taro yn er trên yma",
 		"en": "a road vehicle colliding with a bridge earlier on this train's journey",
 		"nl": "een eerdere aanrijding op deze rit tussen een wegvoertuig en een brug"
 	},
 	"585": {
+		"cy": "cerbyd ffordd wedi taro yn er",
 		"en": "a road vehicle colliding with a bridge earlier today",
 		"nl": "een eerdere aanrijding tussen een wegvoertoeg en een brug"
 	},
 	"586": {
+		"cy": "trên wedi torri i lawr yn gynha",
 		"en": "a broken down train earlier today",
 		"nl": "een defecte trein eerder vandaag"
 	},
 	"587": {
+		"cy": "tirlithriad yn gynharach",
 		"en": "an earlier landslip",
 		"nl": "een aardverzakking eerder"
 	},
 	"588": {
+		"cy": "tân wrth ymyl y cledrau yn gy",
 		"en": "a fire next to the track earlier today",
 		"nl": "een brand bij het spoor eerder vandaag"
 	},
 	"589": {
+		"cy": "tân ar drên yn gynharach hed",
 		"en": "a fire on a train earlier today",
 		"nl": "een brand in een trein eerder vandaag"
 	},
 	"590": {
+		"cy": "cerbyd wedi dod yn rhydd ar",
 		"en": "a coach becoming uncoupled on a train earlier in its journey",
 		"nl": "een ontkoppelde wagon eerder vandaag"
 	},
 	"591": {
+		"cy": "cerbyd wedi dod yn rhydd ar",
 		"en": "a coach becoming uncoupled on a train earlier today",
 		"nl": "een ontkoppelde wagon eerder vandaag"
 	},
 	"592": {
+		"cy": "cerbyd wedi dod yn rhydd ar daith",
 		"en": "a coach becoming uncoupled on this train earlier in its journey",
 		"nl": "een ontkoppelde wagon op deze trein eerder vandaag"
 	},
 	"593": {
+		"cy": "cerbyd wedi dod yn rhydd ar",
 		"en": "a coach becoming uncoupled on this train earlier today",
 		"nl": "een ontkoppelde wagon op deze trein eerder vandaag"
 	},
 	"594": {
+		"cy": "trên heb stopio mewn gorsaf gynharach ar y daith",
 		"en": "a train not stopping at a station it was supposed to earlier in its journey",
 		"nl": "een trein die een stop gemist heeft eerder vandaag"
 	},
 	"595": {
+		"cy": "trên heb stopio mewn gorsaf gynharach heddiw",
 		"en": "a train not stopping at a station it was supposed to earlier today",
 		"nl": "een trein die een stop gemist heeft eerder vandaag"
 	},
 	"596": {
+		"cy": "trên heb stopio yn y lle cywir daith",
 		"en": "a train not stopping in the correct position at a station earlier in its journey",
 		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
 	},
 	"597": {
+		"cy": "trên heb stopio yn y lle cywir heddiw",
 		"en": "a train not stopping in the correct position at a station earlier today",
 		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
 	},
 	"598": {
+		"cy": "system frecio awtomatig trên ar y daith",
 		"en": "a train's automatic braking system being activated earlier in its journey",
 		"nl": "een automatische remingreep eerder vandaag"
 	},
 	"599": {
+		"cy": "system frecio awtomatig trên heddiw",
 		"en": "a train's automatic braking system being activated earlier today",
 		"nl": "een automatische remingreep eerder vandaag"
 	},
 	"600": {
+		"cy": "digwyddiad gweithredol yn gy",
 		"en": "an operational incident earlier in its journey",
 		"nl": "een operationeel incident eerder vandaag"
 	},
 	"601": {
+		"cy": "digwyddiad gweithredol yn gy",
 		"en": "an operational incident earlier today",
 		"nl": "een operationeel incident eerder vandaag"
 	},
 	"602": {
+		"cy": "y trên yma heb stopio mewn g yn gynharach ar y daith",
 		"en": "this train not stopping at a station it was supposed to earlier in its journey",
 		"nl": "een trein die een stop gemist heeft eerder vandaag"
 	},
 	"603": {
+		"cy": "y trên yma heb stopio mewn g yn gynharach heddiw",
 		"en": "this train not stopping at a station it was supposed to earlier today",
 		"nl": "een trein die een stop gemist heeft eerder vandaag"
 	},
 	"604": {
+		"cy": "y trên yma heb stopio yn y lle ar y daith",
 		"en": "this train not stopping in the correct position at a station earlier in its journey",
 		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
 	},
 	"605": {
+		"cy": "y trên yma heb stopio yn y lle heddiw",
 		"en": "this train not stopping in the correct position at a station earlier today",
 		"nl": "een trein die niet op de juiste plaats is gestopt eerder vandaag"
 	},
 	"606": {
+		"cy": "system frecio awtomatig y trê gynharach ar y daith",
 		"en": "this train's automatic braking system being activated earlier in its journey",
 		"nl": "een automatische remingreep eerder vandaag"
 	},
 	"607": {
+		"cy": "system frecio awtomatig y trê gynharach heddiw",
 		"en": "this train's automatic braking system being activated earlier today",
 		"nl": "een automatische remingreep eerder vandaag"
 	},
 	"608": {
+		"cy": "gwrthdrawiad ar groesfan rei",
 		"en": "a collision at a level crossing earlier today",
 		"nl": "een aanrijding op een spoorwegovergang eerder vandaag"
 	},
 	"609": {
+		"cy": "gwrthdrawiad ar groesfan dd",
 		"en": "a collision at a level crossing yesterday",
 		"nl": "een aanrijding op een spoorwegovergang gisteren"
 	},
 	"610": {
+		"cy": "nam ar y bariau ar groesfan re",
 		"en": "a fault with barriers at a level crossing earlier today",
 		"nl": "een defect aan de slagbomen van een spoorwegovergang eerder vandaag"
 	},
 	"611": {
+		"cy": "nam ar y bariau ar groesfan re",
 		"en": "a fault with barriers at a level crossing yesterday",
 		"nl": "een defect aan de slagbomen van een spoorwegovergang gisteren"
 	},
 	"612": {
+		"cy": "damwain ffordd ar groesfan r",
 		"en": "a road accident at a level crossing earlier today",
 		"nl": "een aanrijding op een spoorwegovergang eerder vandaag"
 	},
 	"613": {
+		"cy": "damwain ffordd ar groesfan r",
 		"en": "a road accident at a level crossing yesterday",
 		"nl": "een aanrijding op een spoorwegovergang gisteren"
 	},
 	"614": {
+		"cy": "cerbyd ffordd wedi taro yn er gynharach heddiw",
 		"en": "a road vehicle colliding with level crossing barriers earlier today",
 		"nl": "een aanrijding van de spoorwegovergangbomen eerder vandaag"
 	},
 	"615": {
+		"cy": "cerbyd ffordd wedi taro yn er ddoe",
 		"en": "a road vehicle colliding with level crossing barriers yesterday",
 		"nl": "een aanrijding van de spoorwegovergangbomen gisteren"
 	},
 	"616": {
+		"cy": "cerbyd ffordd wedi difrodi'r c gynharach heddiw",
 		"en": "a road vehicle damaging track at a level crossing earlier today",
 		"nl": "defect spoor op een spoorwegovergang door een aanrijding eerder vandaag"
 	},
 	"617": {
+		"cy": "cerbyd ffordd wedi difrodi'r c ddoe",
 		"en": "a road vehicle damaging track at a level crossing yesterday",
 		"nl": "defect spoor op een spoorwegovergang door een aanrijding gisteren"
 	},
 	"618": {
+		"cy": "prif bibell ddŵr wedi byrstio g heddiw",
 		"en": "a burst water main near the railway earlier today",
 		"nl": "een defecte waterleiding bij het spoor eerder vandaag"
 	},
 	"619": {
+		"cy": "prif bibell ddŵr wedi byrstio g",
 		"en": "a burst water main near the railway yesterday",
 		"nl": "een defecte waterleiding bij het spoor gisteren"
 	},
 	"620": {
+		"cy": "gollyngiad cemegol ger y rhei",
 		"en": "a chemical spillage near the railway earlier today",
-		"nl": "een lekkage van chemicaliën bij het spoor eerder vandaag"
+		"nl": "een lekkage van chemicali\u00ebn bij het spoor eerder vandaag"
 	},
 	"621": {
+		"cy": "gollyngiad cemegol wrth y rhe",
 		"en": "a chemical spillage near the railway yesterday",
-		"nl": "een lekkage van chemicaliën bij het spoor gisteren"
+		"nl": "een lekkage van chemicali\u00ebn bij het spoor gisteren"
 	},
 	"622": {
+		"cy": "tân wrth y rheilffordd yn gysy gynharach heddiw",
 		"en": "a fire near the railway involving gas cylinders earlier today",
 		"nl": "een gascylinder brand bij het spoor eerder vandaag"
 	},
 	"623": {
+		"cy": "tân wrth y rheilffordd yn gysy",
 		"en": "a fire near the railway involving gas cylinders yesterday",
 		"nl": "een gascylinder brand bij het spoor gisteren"
 	},
 	"624": {
+		"cy": "tân wrth y rheilffordd ac amh silindrau nwy yn gynharach he",
 		"en": "a fire near the railway suspected to involve gas cylinders earlier today",
 		"nl": "een mogelijke gascylinder brand bij het spoor eerder vandaag"
 	},
 	"625": {
+		"cy": "tân wrth y rheilffordd ac amh silindrau nwy ddoe",
 		"en": "a fire near the railway suspected to involve gas cylinders yesterday",
 		"nl": "een mogelijke gascylinder brand bij het spoor gisteren"
 	},
 	"626": {
+		"cy": "tân mewn eiddo ger y rheilffo",
 		"en": "a fire on property near the railway earlier today",
 		"nl": "brand op een perceel bij het spoor eerder vandaag"
 	},
 	"627": {
+		"cy": "tân ar eiddo wrth y rheilfford",
 		"en": "a fire on property near the railway yesterday",
 		"nl": "brand op een perceel bij het spoor gisteren"
 	},
 	"628": {
+		"cy": "nwy wedi gollwng ger y rheilf",
 		"en": "a gas leak near the railway earlier today",
 		"nl": "een gaslekkage bij het spoor eerder vandaag"
 	},
 	"629": {
+		"cy": "nwy wedi gollwng ger y rheilf",
 		"en": "a gas leak near the railway yesterday",
 		"nl": "een gaslekkage bij het spoor gisteren"
 	},
 	"630": {
+		"cy": "damwain ffordd ger y rheilffo",
 		"en": "a road accident near the railway earlier today",
 		"nl": "een wegongeval bij het spoor eerder vandaag"
 	},
 	"631": {
+		"cy": "damwain ffordd ger y rheilffo",
 		"en": "a road accident near the railway yesterday",
 		"nl": "een wegongeval bij het spoor gisteren"
 	},
 	"632": {
+		"cy": "bom ers adeg y rhyfel ger y rh",
 		"en": "a wartime bomb near the railway earlier today",
 		"nl": "een oorlogsbom bij het spoor eerder vandaag"
 	},
 	"633": {
+		"cy": "bom ers adeg y rhyfel ger y rh",
 		"en": "a wartime bomb near the railway yesterday",
 		"nl": "een oorlogsbom bij het spoor gisteren"
 	},
 	"634": {
+		"cy": "bom ers adeg y rhyfel sydd be ddiogel",
 		"en": "a wartime bomb which has now been made safe",
 		"nl": "een oorlogsbom die onschadelijk is gemaakt"
 	},
 	"635": {
+		"cy": "y gwasanaeth ambiwlans yn d rheilffordd yn gynharach hedd",
 		"en": "ambulance service dealing with an incident near the railway earlier today",
 		"nl": "ambulance aan het werk voor een incident bij het spoor eerder vandaag"
 	},
 	"636": {
+		"cy": "y gwasanaeth ambiwlans yn d rheilffordd ddoe",
 		"en": "ambulance service dealing with an incident near the railway yesterday",
 		"nl": "ambulance aan het werk voor een incident bij het spoor gisteren"
 	},
 	"637": {
+		"cy": "y gwasanaethau brys wedi bo rheilffordd yn gynharach hedd",
 		"en": "emergency services dealing with an incident near the railway earlier today",
 		"nl": "hulpdiensten bezig met een incident bij het spoor eerder vandaag"
 	},
 	"638": {
+		"cy": "y gwasanaethau brys yn delio ddoe",
 		"en": "emergency services dealing with an incident near the railway yesterday",
 		"nl": "hulpdiensten bezig met een incident bij het spoor gisteren"
 	},
 	"639": {
+		"cy": "y frigâd dân wedi bod yn delio yn gynharach heddiw",
 		"en": "fire brigade dealing with an incident near the railway earlier today",
 		"nl": "brandweer bezig met een incident bij het spoor eerder vandaag"
 	},
 	"640": {
+		"cy": "y frigâd dân wedi bod yn delio ddoe",
 		"en": "fire brigade dealing with an incident near the railway yesterday",
 		"nl": "brandweer bezig met een incident bij het spoor gisteren"
 	},
 	"641": {
+		"cy": "yr heddlu'n delio gyda digwyd gynharach heddiw",
 		"en": "police dealing with an incident near the railway earlier today",
 		"nl": "politie bezig met een incident bij het spoor eerder vandaag"
 	},
 	"642": {
+		"cy": "yr heddlu'n delio gyda digwyd",
 		"en": "police dealing with an incident near the railway yesterday",
 		"nl": "politie bezig met een incident bij het spoor gisteren"
 	},
 	"643": {
+		"cy": "Cwch wedi taro yn erbyn pont",
 		"en": "a boat colliding with a bridge earlier today",
 		"nl": "een botsing tussen een boot en een spoorbrug eerder vandaag"
 	},
 	"644": {
+		"cy": "nam ar bont droi dros afon yn",
 		"en": "a fault with a swing bridge over a river earlier today",
 		"nl": "een probleem met een draaibrug eerder vandaag"
 	},
 	"645": {
+		"cy": "problem gyda phont dros afon",
 		"en": "a problem with a river bridge earlier today",
 		"nl": "een probleem met een brug eerder vandaag"
 	},
 	"646": {
+		"cy": "problem gyda chyfarpar wrth",
 		"en": "an earlier problem with line-side equipment",
 		"nl": "een probleem met apparatuur bij het spoor eerder vandaag"
 	},
 	"647": {
+		"cy": "rhybudd diogelwch yn gynhar",
 		"en": "a security alert earlier today",
 		"nl": "een beveiligingswaarschuwing in een station eerder vandaag"
 	},
 	"648": {
+		"cy": "nam ar y trên yma sydd bellac",
 		"en": "a fault on this train which is now fixed",
 		"nl": "een defecte trein eerder vandaag"
 	},
 	"649": {
+		"cy": "tresmaswyr ar y rheilffordd y",
 		"en": "trespassers on the railway earlier in this train's journey",
 		"nl": "personen op het spoor eerder vandaag"
 	},
 	"650": {
+		"cy": "tresmaswyr ar y rheilffordd y",
 		"en": "trespassers on the railway earlier today",
 		"nl": "personen op het spoor eerder vandaag"
 	},
 	"651": {
+		"cy": "beic ar y cledrau",
 		"en": "a bicycle on the track",
 		"nl": "een fiets op het spoor"
 	},
 	"652": {
+		"cy": "cerbyd ffordd yn rhwystro'r rh",
 		"en": "a road vehicle blocking the railway",
 		"nl": "een wegvoertuig op het spoor"
 	},
 	"653": {
+		"cy": "troli archfarchnad ar y cledrau",
 		"en": "a supermarket trolley on the track",
 		"nl": "een boodschappenwagen op het spoor"
 	},
 	"654": {
+		"cy": "trên wedi taro rhwystr ar y cle",
 		"en": "a train hitting an obstruction on the line",
 		"nl": "een aanrijding met een obstakel"
 	},
 	"655": {
+		"cy": "coeden yn rhwystro'r rheilffo",
 		"en": "a tree blocking the railway",
 		"nl": "een boom op het spoor"
 	},
 	"656": {
+		"cy": "rhwystr ar y cledrau",
 		"en": "an obstruction on the track",
 		"nl": "een obstakel op het spoor"
 	},
 	"657": {
+		"cy": "ymchwilio i adroddiadau bod",
 		"en": "checking reports of an obstruction on the line",
 		"nl": "een mogelijk obstakel op het spoor"
 	},
 	"658": {
+		"cy": "y trên yma wedi taro rhwystr",
 		"en": "this train hitting an obstruction on the line",
 		"nl": "een aanrijding met een obstakel door deze trein"
 	},
 	"659": {
+		"cy": "beic ar y cledrau yn gynharach",
 		"en": "a bicycle on the track earlier on this train's journey",
 		"nl": "een fiets op het spoor eerder vandaag"
 	},
 	"660": {
+		"cy": "beic ar y cledrau yn gynharach",
 		"en": "a bicycle on the track earlier today",
 		"nl": "een fiets op het spoor eerder vandaag"
 	},
 	"661": {
+		"cy": "cerbyd ffordd yn rhwystro'r rh trên yma",
 		"en": "a road vehicle blocking the railway earlier on this train's journey",
 		"nl": "een wegvoertuig op het spoor eerder vandaag"
 	},
 	"662": {
+		"cy": "cerbyd ffordd yn rhwystro'r rh",
 		"en": "a road vehicle blocking the railway earlier today",
 		"nl": "een wegvoertuig op het spoor eerder vandaag"
 	},
 	"663": {
+		"cy": "troli archfarchnad ar y cledrau yma",
 		"en": "a supermarket trolley on the track earlier on this train's journey",
 		"nl": "een boodschappenwagen op het spoor eerder vandaag"
 	},
 	"664": {
+		"cy": "troli archfarchnad ar y cledrau",
 		"en": "a supermarket trolley on the track earlier today",
 		"nl": "een boodschappenwagen op het spoor eerder vandaag"
 	},
 	"665": {
+		"cy": "trên wedi taro rhwystr ar y cle trên yma",
 		"en": "a train hitting an obstruction on the line earlier on this train's journey",
 		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
 	},
 	"666": {
+		"cy": "trên wedi taro rhwystr ar y rh",
 		"en": "a train hitting an obstruction on the line earlier today",
 		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
 	},
 	"667": {
+		"cy": "coeden yn rhwystro'r rheilffo yma",
 		"en": "a tree blocking the railway earlier on this train's journey",
 		"nl": "een boom op het spoor eerder vandaag"
 	},
 	"668": {
+		"cy": "coeden yn rhwystro'r rheilffo",
 		"en": "a tree blocking the railway earlier today",
 		"nl": "een boom op het spoor eerder vandaag"
 	},
 	"669": {
+		"cy": "rhwystr ar y cledrau yn gynha",
 		"en": "an obstruction on the track earlier on this train's journey",
 		"nl": "een obstakel op het spoor eerder vandaag"
 	},
 	"670": {
+		"cy": "rhwystr ar y cledrau yn gynha",
 		"en": "an obstruction on the track earlier today",
 		"nl": "een obstakel op het spoor eerder vandaag"
 	},
 	"671": {
+		"cy": "ymchwilio i adroddiadau bod gynharach ar daith y trên yma",
 		"en": "checking reports of an obstruction on the line earlier on this train's journey",
 		"nl": "een mogelijk obstakel op het spoor eerder vandaag"
 	},
 	"672": {
+		"cy": "ymchwilio i adroddiadau bod gynharach heddiw",
 		"en": "checking reports of an obstruction on the line earlier today",
 		"nl": "een mogelijk obstakel op het spoor eerder vandaag"
 	},
 	"673": {
+		"cy": "y trên yma wedi taro rhwystr daith",
 		"en": "this train hitting an obstruction on the line earlier in its journey",
 		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
 	},
 	"674": {
+		"cy": "y trên yma wedi taro rhwystr daith y trên yma",
 		"en": "this train hitting an obstruction on the line earlier on this train's journey",
 		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
 	},
 	"675": {
+		"cy": "y trên yma wedi taro rhwystr heddiw",
 		"en": "this train hitting an obstruction on the line earlier today",
 		"nl": "een aanrijding met een obstakel door deze trein eerder vandaag"
 	},
 	"676": {
+		"cy": "cerbyd wedi dod yn rhydd ar",
 		"en": "a coach becoming uncoupled on a train",
 		"nl": "een ontkoppelde wagon"
 	},
 	"677": {
+		"cy": "cerbyd wedi dod yn rhydd ar",
 		"en": "a coach becoming uncoupled on this train",
 		"nl": "een ontkoppelde wagon op deze trein"
 	},
 	"678": {
+		"cy": "trên heb stopio mewn gorsaf",
 		"en": "a train not stopping at a station it was supposed to",
 		"nl": "een trein die een stop gemist heeft"
 	},
 	"679": {
+		"cy": "trên heb stopio yn y lle cywir",
 		"en": "a train not stopping in the correct position at a station",
 		"nl": "een trein die niet op de juiste plaats is gestopt"
 	},
 	"680": {
+		"cy": "system frecio awtomatig trên",
 		"en": "a train's automatic braking system being activated",
 		"nl": "een automatische remingreep"
 	},
 	"681": {
+		"cy": "digwyddiad gweithredol",
 		"en": "an operational incident",
 		"nl": "een operationeel incident"
 	},
 	"682": {
+		"cy": "y trên yma heb stopio mewn g",
 		"en": "this train not stopping at a station it was supposed to",
 		"nl": "een trein die een stop gemist heeft"
 	},
 	"683": {
+		"cy": "y trên yma heb stopio yn y lle",
 		"en": "this train not stopping in the correct position at a station",
 		"nl": "een trein die niet op de juiste plaats is gestopt"
 	},
 	"684": {
+		"cy": "system frecio awtomatig y trê",
 		"en": "this train's automatic braking system being activated",
 		"nl": "een automatische remingreep"
 	},
 	"685": {
+		"cy": "gorlawn",
 		"en": "overcrowding",
 		"nl": "extreme drukte"
 	},
 	"686": {
+		"cy": "gorlawn oherwydd bod gan y arfer",
 		"en": "overcrowding as this train has fewer coaches than normal",
 		"nl": "extreme drukte door een kortere trein dan gebruikelijk"
 	},
 	"687": {
+		"cy": "gorlawn oherwydd bod gan d arfer",
 		"en": "overcrowding because an earlier train had fewer coaches than normal",
 		"nl": "extreme drukte door een kortere trein dan gebruikelijk eerder vandaag"
 	},
 	"688": {
+		"cy": "gorlawn oherwydd cyngerdd",
 		"en": "overcrowding because of a concert",
 		"nl": "extreme drukte door een concert"
 	},
 	"689": {
+		"cy": "gorlawn oherwydd gêm bêl-d",
 		"en": "overcrowding because of a football match",
 		"nl": "extreme drukte door een voetbalwedstrijd"
 	},
 	"690": {
+		"cy": "gorlawn oherwydd marathon",
 		"en": "overcrowding because of a marathon",
 		"nl": "extreme drukte door een marathon"
 	},
 	"691": {
+		"cy": "gorlawn oherwydd gêm rygbi",
 		"en": "overcrowding because of a rugby match",
 		"nl": "extreme drukte door een rugbywedstrijd"
 	},
 	"692": {
+		"cy": "gorlawn oherwydd digwyddia",
 		"en": "overcrowding because of a sporting event",
 		"nl": "extreme drukte door een sportevenement"
 	},
 	"693": {
+		"cy": "gorlawn oherwydd",
 		"en": "overcrowding because of an earlier cancellation",
 		"nl": "extreme drukte door een geannuleerde trein eerder vandaag"
 	},
 	"694": {
+		"cy": "gorlawn oherwydd digwyddia",
 		"en": "overcrowding because of an event",
 		"nl": "extreme drukte door een evenement"
 	},
 	"695": {
+		"cy": "gorlawn yn gynharach ar dait",
 		"en": "overcrowding earlier on this train's journey",
 		"nl": "extreme drukte in deze trein eerder vandaag"
 	},
 	"696": {
+		"cy": "anifeiliaid ar y cledrau",
 		"en": "animals on the railway",
 		"nl": "dieren op het spoor"
 	},
 	"697": {
+		"cy": "gwartheg ar y cledrau",
 		"en": "cattle on the railway",
 		"nl": "vee op het spoor"
 	},
 	"698": {
+		"cy": "ceffylau ar y cledrau",
 		"en": "horses on the railway",
 		"nl": "paarden op het spoor"
 	},
 	"699": {
+		"cy": "defaid ar y cledrau",
 		"en": "sheep on the railway",
 		"nl": "schapen op het spoor"
 	},
 	"700": {
+		"cy": "anifeiliaid ar y cledrau yn gyn",
 		"en": "animals on the railway earlier today",
 		"nl": "dieren op het spoor eerder vandaag"
 	},
 	"701": {
+		"cy": "gwartheg ar y cledrau yn gynh",
 		"en": "cattle on the railway earlier today",
 		"nl": "vee op het spoor eerder vandaag"
 	},
 	"702": {
+		"cy": "ceffylau ar y cledrau yn gynha",
 		"en": "horses on the railway earlier today",
 		"nl": "paarden op het spoor eerder vandaag"
 	},
 	"703": {
+		"cy": "defaid ar y cledrau yn gynhara",
 		"en": "sheep on the railway earlier today",
 		"nl": "schapen op het spoor eerder vandaag"
 	},
 	"704": {
+		"cy": "teithwyr wedi creu helynt ar d",
 		"en": "passengers causing a disturbance on a train",
 		"nl": "reizigers die de rust verstoren in een trein"
 	},
 	"705": {
+		"cy": "teithwyr wedi creu helynt ar y",
 		"en": "passengers causing a disturbance on this train",
 		"nl": "reizigers die de rust verstoren in deze trein"
 	},
 	"706": {
+		"cy": "teithwyr wedi creu helynt yn",
 		"en": "passengers causing a disturbance earlier in this train's journey",
 		"nl": "reizigers die de rust verstoren eerder vandaag in deze trein"
 	},
 	"707": {
+		"cy": "teithwyr wedi creu helynt ar d",
 		"en": "passengers causing a disturbance on a train earlier today",
 		"nl": "reizigers die de rust verstoren in een trein eerder vandaag"
 	},
 	"708": {
+		"cy": "nam ar y gledren drydanol yn",
 		"en": "a fault with the electric third rail earlier on this train's journey",
 		"nl": "een probleem met de elektrische derde rail eerder vandaag met deze trein"
 	},
 	"709": {
+		"cy": "nam ar y gledren drydanol yn",
 		"en": "a fault with the electric third rail earlier today",
 		"nl": "een probleem met de elektrische derde rail eerder vandaag"
 	},
 	"710": {
+		"cy": "difrod i'r gledren drydanol yn",
 		"en": "damage to the electric third rail earlier on this train's journey",
 		"nl": "een probleem met de elektrische derde rail eerder vandaag met deze trein"
 	},
 	"711": {
+		"cy": "difrod i'r gledran drydanol yn",
 		"en": "damage to the electric third rail earlier today",
 		"nl": "een probleem met de elektrische derde rail eerder vandaag met deze trein"
 	},
 	"712": {
+		"cy": "y cyflenwad trydan wedi meth yma",
 		"en": "failure of the electricity supply earlier on this train's journey",
 		"nl": "een probleem met de elektriciteitsspanning eerder vandaag met deze trein"
 	},
 	"713": {
+		"cy": "y cyflenwad trydan wedi meth",
 		"en": "failure of the electricity supply earlier today",
 		"nl": "een probleem met de elektriciteitsspanning eerder vandaag"
 	},
 	"714": {
+		"cy": "y trydan wedi cael ei ddiffodd gynharach ar daith y trên yma",
 		"en": "the electricity being switched off for safety reasons earlier on this train's journey",
 		"nl": "de elektriciteit spanningsloos gemaakt voor veiligheidsredenen eerder vandaag met deze trein"
 	},
 	"715": {
+		"cy": "y trydan wedi cael ei ddiffodd gynharach heddiw",
 		"en": "the electricity being switched off for safety reasons earlier today",
 		"nl": "de elektriciteit spanningsloos gemaakt voor veiligheidsredenen eerder vandaag"
 	},
 	"716": {
+		"cy": "angen trwsio pont ar frys yn g",
 		"en": "urgent repairs to a bridge earlier today",
 		"nl": "noodreparatie aan een brug eerder vandaag"
 	},
 	"717": {
+		"cy": "angen trwsio twnnel ar frys yn",
 		"en": "urgent repairs to a tunnel earlier today",
 		"nl": "noodreparatie aan een tunnel eerder vandaag"
 	},
 	"718": {
+		"cy": "angen trwsio'r rheilffordd ar f",
 		"en": "urgent repairs to the railway earlier today",
 		"nl": "noodreparatie aan het spoor eerder vandaag"
 	},
 	"719": {
+		"cy": "angen trwsio'r cledrau ar frys",
 		"en": "urgent repairs to the track earlier today",
 		"nl": "noodreparatie aan het spoor eerder vandaag"
 	},
 	"720": {
+		"cy": "gweithredu diwydiannol yn d heddiw",
 		"en": "expected industrial action earlier today",
 		"nl": "een verwachtte staking eerder vandaag"
 	},
 	"721": {
+		"cy": "gweithredu diwydiannol yn d",
 		"en": "expected industrial action yesterday",
 		"nl": "een verwachtte staking gisteren"
 	},
 	"722": {
+		"cy": "gweithredu diwydiannol yn gy",
 		"en": "industrial action earlier today",
 		"nl": "een staking eerder vandaag"
 	},
 	"723": {
+		"cy": "gweithredu diwydiannol yn d",
 		"en": "industrial action yesterday",
 		"nl": "een staking gisteren"
 	},
 	"724": {
+		"cy": "rhywbeth wedi cael ei ddal ar gynharach ar daith y trên yma",
 		"en": "an object being caught on the overhead electric wires earlier on this train's journey",
 		"nl": "een object in de bovenleiding eerder vandaag met deze trein"
 	},
 	"725": {
+		"cy": "rhywbeth wedi cael ei ddal ar gynharach heddiw",
 		"en": "an object being caught on the overhead electric wires earlier today",
 		"nl": "een object in de bovenleiding eerder vandaag"
 	},
 	"726": {
+		"cy": "difrod i'r gwifrau trydanol uw trên yma",
 		"en": "damage to the overhead electric wires earlier on this train's journey",
 		"nl": "schade aan de bovenleiding eerder vandaag met deze trein"
 	},
 	"727": {
+		"cy": "difrod i'r gwifrau trydanol uw",
 		"en": "damage to the overhead electric wires earlier today",
 		"nl": "schade aan de bovenleiding eerder vandaag"
 	},
 	"728": {
+		"cy": "gwaith peirianyddol cynharac pryd",
 		"en": "earlier engineering works not being finished on time",
 		"nl": "uitlopende werkzaamheden"
 	},
 	"729": {
+		"cy": "nam ar system signalau'r trên yma",
 		"en": "a fault with the on train signalling system earlier on this train's journey",
 		"nl": "een probleem met het treinbeveiligingssysteem eerder vandaag met deze trein"
 	},
 	"730": {
+		"cy": "nam ar system signalau'r trên",
 		"en": "a fault with the on train signalling system earlier today",
 		"nl": "een probleem met het treinbeveiligingssysteem eerder vandaag"
 	},
 	"733": {
+		"cy": "nam ar y system signalau yn g",
 		"en": "a fault with the signalling system earlier on this train's journey",
 		"nl": "een probleem met het treinbeveiligingssysteem eerder vandaag met deze trein"
 	},
 	"734": {
+		"cy": "nam ar y system signalau yn g",
 		"en": "a fault with the signalling system earlier today",
 		"nl": "een probleem met het treinbeveiligingssysteem eerder vandaag"
 	},
 	"737": {
+		"cy": "y larwm tân wedi canu mewn daith y trên yma",
 		"en": "the fire alarm sounding in a signalbox earlier on this train's journey",
 		"nl": "een brandalarm bij de treindienstleider eerder vandaag met deze trein"
 	},
 	"738": {
+		"cy": "y larwm tân wedi canu mewn heddiw",
 		"en": "the fire alarm sounding in a signalbox earlier today",
 		"nl": "een brandalarm bij de treindienstleider eerder vandaag"
 	},
 	"739": {
+		"cy": "y larwm tân wedi canu mewn daith y trên yma",
 		"en": "the fire alarm sounding in the signalling centre earlier on this train's journey",
 		"nl": "een brandalarm bij de treindienstleider eerder vandaag met deze trein"
 	},
 	"740": {
+		"cy": "y larwm tân wedi canu mewn heddiw",
 		"en": "the fire alarm sounding in the signalling centre earlier today",
 		"nl": "een brandalarm bij de treindienstleider eerder vandaag"
 	},
 	"741": {
+		"cy": "rhywun wedi ceisio dwyn offe yn gynharach heddiw",
 		"en": "attempted theft of overhead line electrification equipment earlier today",
 		"nl": "geprobeerde diefstal van bovenleidingsmateriaal eerder vandaag"
 	},
 	"742": {
+		"cy": "rhywun wedi ceisio dwyn offe ddoe",
 		"en": "attempted theft of overhead line electrification equipment yesterday",
 		"nl": "geprobeerde diefstal van bovenleidingsmateriaal gisteren"
 	},
 	"743": {
+		"cy": "rhywun wedi ceisio dwyn offe heddiw",
 		"en": "attempted theft of railway equipment earlier today",
 		"nl": "geprobeerde diefstal van spoormateriaal eerder vandaag"
 	},
 	"744": {
+		"cy": "rhywun wedi ceisio dwyn offe",
 		"en": "attempted theft of railway equipment yesterday",
 		"nl": "geprobeerde diefstal van spoormateriaal gisteren"
 	},
 	"745": {
+		"cy": "rhywun wedi ceisio dwyn ceb heddiw",
 		"en": "attempted theft of signalling cables earlier today",
 		"nl": "geprobeerde diefstal van seinkabels eerder vandaag"
 	},
 	"746": {
+		"cy": "rhywun wedi ceisio dwyn ceb",
 		"en": "attempted theft of signalling cables yesterday",
 		"nl": "geprobeerde diefstal van seinkabels gisteren"
 	},
 	"747": {
+		"cy": "rhywun wedi ceisio dwyn offe drydanol yn gynharach heddiw",
 		"en": "attempted theft of third rail electrification equipment earlier today",
 		"nl": "geprobeerde diefstal van derde rail elektrificatie materiaal eerder vandaag"
 	},
 	"748": {
+		"cy": "rhywun wedi ceisio dwyn offe drydanol",
 		"en": "attempted theft of third rail electrification equipment yesterday",
 		"nl": "geprobeerde diefstal van derde rail elektrificatie materiaal gisteren"
 	},
 	"749": {
+		"cy": "rhywun wedi dwyn offer tryd gynharach heddiw",
 		"en": "theft of overhead line electrification equipment earlier today",
 		"nl": "diefstal van bovenleidingsmateriaal eerder vandaag"
 	},
 	"750": {
+		"cy": "rhywun wedi dwyn offer tryd",
 		"en": "theft of overhead line electrification equipment yesterday",
 		"nl": "diefstal van bovenleidingsmateriaal gisteren"
 	},
