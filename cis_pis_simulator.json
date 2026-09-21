@@ -3,92 +3,224 @@
 		"default": "de",
 		"strings": {
 			"headerTitle": {
+				"cy": false,
 				"de": "Wagenreihung",
-				"en": "Train-formation Indicator"
+				"en": "Train-formation Indicator",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"headerYourPosition": {
+				"cy": false,
 				"de": "Ihr Standort",
-				"en": "Your position"
+				"en": "Your position",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"servicePlatform": {
+				"cy": false,
 				"de": "Bstg.",
-				"en": "Plat."
+				"en": "Plat.",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"serviceCarriageNotInUse": {
+				"cy": false,
 				"de": "Wagen gesperrt",
-				"en": "Not in service"
+				"en": "Not in service",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-businessClass": {
+				"cy": false,
 				"de": "Businessabteil",
-				"en": "Business class"
+				"en": "Business class",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-firstClass": {
+				"cy": false,
 				"de": "Erste Klasse",
-				"en": "First class"
+				"en": "First class",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-comfortClass": {
+				"cy": false,
 				"de": "Comfort Klasse",
-				"en": "Comfort class"
+				"en": "Comfort class",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-standardClass": {
+				"cy": false,
 				"de": "Zweite Klasse",
-				"en": "Economy class"
+				"en": "Economy class",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-restaurant": {
+				"cy": false,
 				"de": "Speisewagen",
-				"en": "Dining car"
+				"en": "Dining car",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-sleeper": {
+				"cy": false,
 				"de": "Schlafwagen",
-				"en": "Sleeping car"
+				"en": "Sleeping car",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-couchette": {
+				"cy": false,
 				"de": "Liegewagen",
-				"en": "Couchette"
+				"en": "Couchette",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-carCarrier": {
+				"cy": false,
 				"de": "Autotransportwagen",
-				"en": "Car carrier wagon"
+				"en": "Car carrier wagon",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-notInUse": {
+				"cy": false,
 				"de": "Wagen abgesperrt",
-				"en": "Carriage closed"
+				"en": "Carriage closed",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-accessible": {
+				"cy": false,
 				"de": "Rollstuhlabstellplatz",
-				"en": "Wheelchair parking"
+				"en": "Wheelchair parking",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-bicycle": {
+				"cy": false,
 				"de": "Fahrradabstellplatz",
-				"en": "Bicycle parking"
+				"en": "Bicycle parking",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-family": {
+				"cy": false,
 				"de": "Familienbereich",
-				"en": "Family zone"
+				"en": "Family zone",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-pet": {
-				"de": "-",
-				"en": "Pet zone"
+				"cy": false,
+				"de": false,
+				"en": "Pet zone",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-luggage": {
+				"cy": false,
 				"de": "Gepäckregal",
-				"en": "Luggage storage"
+				"en": "Luggage storage",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-quiet": {
+				"cy": false,
 				"de": "Ruhebereich",
-				"en": "Quiet zone"
+				"en": "Quiet zone",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-bistro": {
+				"cy": false,
 				"de": "Kaffee und Snacks",
-				"en": "Coffee and snacks"
+				"en": "Coffee and snacks",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-wifi": {
+				"cy": false,
 				"de": "WLAN",
-				"en": "WI-FI"
+				"en": "WI-FI",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			},
 			"facilityKey-toilet": {
-				"de": "-",
-				"en": "Toilet"
+				"cy": false,
+				"de": false,
+				"en": "Toilet",
+				"fi": false,
+				"fr": false,
+				"it": false,
+				"nl": false,
+				"sv": false
 			}
 		}
 	},
@@ -102,7 +234,9 @@
 				"en": "Depart",
 				"fi": "Aika",
 				"fr": "Départ",
-				"nl": "Vertrek"
+				"it": false,
+				"nl": "Vertrek",
+				"sv": false
 			},
 			"headerDestinationAndRemarks": {
 				"_translationNote": "Direct translation of 'to' and 'remarks' if possible, but translations of 'Destination' and 'notes' are also acceptable. Capitalise both words, and separate with a forward-slash (no space).",
@@ -111,7 +245,9 @@
 				"en": "To/Remarks",
 				"fi": "Määräasema/Huomiot",
 				"fr": "À/Remarques",
-				"nl": "Naar/Opmerkingen"
+				"it": false,
+				"nl": "Naar/Opmerkingen",
+				"sv": false
 			},
 			"headerPlatformAndTrain": {
 				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language. Capitalise both words, and separate with a forward-slash (no space).",
@@ -120,7 +256,9 @@
 				"en": "Platform/Train",
 				"fi": "Raide/Juna",
 				"fr": "Quai/Train",
-				"nl": "Spoor/Trein"
+				"it": false,
+				"nl": "Spoor/Trein",
+				"sv": false
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence. Needs to work in combination with serviceReason below.",
@@ -130,7 +268,8 @@
 				"fi": "Peruttu",
 				"fr": "Supprimé",
 				"it": "Soppresso",
-				"nl": "Rijdt niet"
+				"nl": "Rijdt niet",
+				"sv": false
 			},
 			"serviceReason": {
 				"_translationNote": "Needs to work in combination with serviceCancelled above. An example of a reason that could follow is 'a fault on this train'.",
@@ -139,7 +278,9 @@
 				"en": "due to",
 				"fi": "perumisen syy",
 				"fr": "en raison de",
-				"nl": "door"
+				"it": false,
+				"nl": "door",
+				"sv": false
 			},
 			"bus": {
 				"cy": "bws",
@@ -169,11 +310,14 @@
 		"strings": {
 			"noInfo": {
 				"_translationNote": "Should not explicitly mention an app and/or website - keep it generically 'online'. Capitalise as a full sentence.",
+				"cy": false,
 				"de": "Bitte konsultieren Sie den Online-Fahrplan",
 				"en": "Please consult the online timetable",
+				"fi": false,
 				"fr": "Merci de vous référer à l'horaire en ligne",
 				"it": "Si prega di consultare l'orario online",
-				"nl": "Gebruik alstublieft de online dienstregeling"
+				"nl": "Gebruik alstublieft de online dienstregeling",
+				"sv": false
 			},
 			"headerDestination": {
 				"_translationNote": "Direct translation of 'to' if possible, but a translation of 'Destination' is also acceptable.",
@@ -183,7 +327,8 @@
 				"fi": "Määräasema",
 				"fr": "Pour",
 				"it": "Per",
-				"nl": "Naar"
+				"nl": "Naar",
+				"sv": false
 			},
 			"headerOrigin": {
 				"_translationNote": "Direct translation of 'from' if possible, but a translation of 'Origin' is also acceptable.",
@@ -193,7 +338,8 @@
 				"fi": "Lähtöasema",
 				"fr": "De",
 				"it": "Da",
-				"nl": "Van"
+				"nl": "Van",
+				"sv": false
 			},
 			"headerPlatform": {
 				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language.",
@@ -203,7 +349,8 @@
 				"fi": "Raide",
 				"fr": "Voie",
 				"it": "Binario",
-				"nl": "Spoor"
+				"nl": "Spoor",
+				"sv": false
 			},
 			"headerNote": {
 				"_translationNote": "This column states if a service is cancelled/delayed, and shows any other message related to it. Translation of 'remarks' is acceptable if there is no direct translation for 'note'. Please assume to be singular.",
@@ -213,7 +360,8 @@
 				"fi": "Huomio",
 				"fr": "Remarque",
 				"it": "Nota",
-				"nl": "Opmerking"
+				"nl": "Opmerking",
+				"sv": false
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence.",
@@ -223,25 +371,30 @@
 				"fi": "Peruttu",
 				"fr": "Supprimé",
 				"it": "Soppresso",
-				"nl": "Rijdt niet"
+				"nl": "Rijdt niet",
+				"sv": false
 			},
 			"serviceDelayedMins": {
 				"_translationNote": "Although this will be used as a full sentence, keep it lowercase to match SBB's style. {min} will be an integer, assumed to be >1.",
+				"cy": false,
 				"de": "ca. {min} Min später",
 				"en": "about {min} min delay",
 				"fi": "viivästynyt {min} min",
 				"fr": "retard env. {min} min",
 				"it": "ca {min} min di ritardo",
-				"nl": "vertraagd met {min} min"
+				"nl": "vertraagd met {min} min",
+				"sv": false
 			},
 			"serviceDelayedIndefinitely": {
 				"_translationNote": "Should be clear that the length of delay is unknown. Other similar words can be used if no direct translation for 'indefinitely'.",
+				"cy": false,
 				"de": "unb. Verspätung",
 				"en": "Delayed indefinitely",
 				"fi": "Myöhässä",
 				"fr": "Retard indéterminé",
 				"it": "Ritardo imprecisato",
-				"nl": "Onbepaalde vertraging"
+				"nl": "Onbepaalde vertraging",
+				"sv": false
 			}
 		}
 	}
