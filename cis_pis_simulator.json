@@ -141,6 +141,16 @@
 				"fr": "en raison de",
 				"nl": "door"
 			},
+			"bus": {
+				"cy": "bws",
+				"de": "bus",
+				"en": "bus",
+				"fi": "bussi",
+				"fr": "bus",
+				"it": "bus",
+				"nl": "bus",
+				"sv": "buss"
+			},
 			"serviceLargeDelay": {
 				"_translationNote": "{hours} and {mins} will both be integers",
 				"cy": "{hours}a{mins}",
