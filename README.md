@@ -1,13 +1,13 @@
-# gb_rail_i18n
+# GB Rail Internationalisation (i18n)
 Translations, both fun and serious, for various aspects of railway information in Great Britain
 
 ## darwin_reasons.json
 This file contains a list of all delay/cancellation reasons used by the 'Darwin' real-time information system for the railway in Great Britain. These can be used together with the arrival/departure board APIs and "PushPort" data stream available on the [Rail Data Marketplace](https://raildata.org.uk).
 
 The current target languages are:
+- [cy] Welsh (available for reason codes 100 to 801, as used by TfW Rail. Remaining reasons will be added soon)
 - [en] English
 - [nl] Dutch
-- [cy] Welsh (available for reason codes 100 to 750, as used by TfW Rail. Remaining reasons will be added soon)
 
 Feel free to add more languages, using their 2-letter ISO 639 code in lowercase. Please keep the strings ordered alphabetically by language code when adding new languages.
 
@@ -26,6 +26,6 @@ The current target languages are:
 - [nl] Dutch
 - [sv] Swedish
 
-The above list encompasses the official languages used by the countries whose departure boards are available in this project.
+The above list encompasses the official languages used by the countries whose departure boards are available in this project. Any strings that are missing a translation in any of the target values have a `false` value to make them more easily noticeable.
 
 Feel free to add more languages, using their 2-letter ISO 639 code in lowercase. Please keep the strings ordered alphabetically by language code when adding new languages. Some strings have a `_translationNotes` field, which provides additional context for how to translate the text into new languages.
