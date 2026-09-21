@@ -7,7 +7,7 @@ This file contains a list of all delay/cancellation reasons used by the 'Darwin'
 The current target languages are:
 - [en] English
 - [nl] Dutch
-- [cy] Welsh (will be added to the data soon)
+- [cy] Welsh (available for reason codes 100 to 750, as used by TfW Rail. Remaining reasons will be added soon)
 
 Feel free to add more languages, using their 2-letter ISO 639 code in lowercase. Please keep the strings ordered alphabetically by language code when adding new languages.
 
