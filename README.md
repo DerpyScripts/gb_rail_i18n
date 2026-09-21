@@ -17,6 +17,7 @@ This file will be used by [cis.arturs.co.uk](https://cis.arturs.co.uk), which is
 > Please note that the above site is currently being re-built to support data from railways outside Great Britain, and the work-in-progress version that supports other sources is available at [evo--cis-pis-simulator.netlify.app](https://evo--cis-pis-simulator.netlify.app). This is a staging environment so do expect bugs.
 
 The current target languages are:
+- [cy] Welsh
 - [de] German
 - [en] English
 - [fi] Finnish
