@@ -5,9 +5,9 @@ Translations, both fun and serious, for various aspects of railway information i
 This file contains a list of all delay/cancellation reasons used by the 'Darwin' real-time information system for the railway in Great Britain. These can be used together with the arrival/departure board APIs and "PushPort" data stream available on the [Rail Data Marketplace](https://raildata.org.uk).
 
 The current target languages are:
-- [cy] Welsh (available for reason codes 100 to 801, as used by TfW Rail. Remaining reasons will be added soon)
+- [cy] Welsh (as used by TfW Rail, available for reason codes 100 to 844. Remaining reasons will be added later)
 - [en] English
-- [nl] Dutch
+- [nl] Dutch (available for reason codes 100 to 844. Remaining reasons will be added later)
 
 Feel free to add more languages, using their 2-letter ISO 639 code in lowercase. Please keep the strings ordered alphabetically by language code when adding new languages.
 
