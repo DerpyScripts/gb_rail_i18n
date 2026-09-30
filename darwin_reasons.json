@@ -1915,478 +1915,597 @@
 		"nl": "krachtige wind eerder vandaag"
 	},
 	"802": {
+		"cy": "gweithredu diwydiannol yn d",
 		"en": "expected industrial action",
 		"nl": "verwachte stakingen"
 	},
 	"803": {
+		"cy": "gweithredu diwydiannol",
 		"en": "industrial action",
 		"nl": "stakingen"
 	},
 	"804": {
+		"cy": "mellten wedi difrodi gorsaf",
 		"en": "lightning damaging a station",
 		"nl": "blikseminslag in een station"
 	},
 	"805": {
+		"cy": "mellten wedi difrodi trên",
 		"en": "lightning damaging a train",
 		"nl": "blikseminslag in een trein"
 	},
 	"806": {
+		"cy": "mellten wedi difrodi cyfarpar",
 		"en": "lightning damaging equipment",
 		"nl": "blikseminslag in apparatuur"
 	},
 	"807": {
+		"cy": "mellten wedi difrodi'r cyflenw",
 		"en": "lightning damaging the electricity supply",
 		"nl": "blikseminslag in de elektrische toevoer"
 	},
 	"808": {
+		"cy": "mellten wedi difrodi'r system",
 		"en": "lightning damaging the signalling system",
 		"nl": "blikseminslag in het treinbeveiligingssysteem"
 	},
 	"809": {
+		"cy": "mellten wedi difrodi'r trên ym",
 		"en": "lightning damaging this train",
 		"nl": "blikseminslag in deze trein"
 	},
 	"810": {
+		"cy": "rhywbeth wedi cael ei ddal ar",
 		"en": "an object being caught on the overhead electric wires",
 		"nl": "een object in de bovenleiding"
 	},
 	"811": {
+		"cy": "difrod i'r gwifrau trydanol uw",
 		"en": "damage to the overhead electric wires",
 		"nl": "schade aan de bovenleiding"
 	},
 	"812": {
+		"cy": "gwaith peirianyddol cynharac pryd",
 		"en": "engineering works not being finished on time",
 		"nl": "uitlopende werkzaamheden"
 	},
 	"813": {
+		"cy": "rhagolygon cledrau llithrig",
 		"en": "forecasted slippery rails",
 		"nl": "verwacht glad spoor"
 	},
 	"814": {
+		"cy": "rhew yn rhwystro'r trên yma drydanol",
 		"en": "ice preventing this train getting electricity from the third rail",
 		"nl": "problemen met de elektriciteitsvoorziening vanwege ijs op de derde rail op deze trein"
 	},
 	"815": {
+		"cy": "rhew yn rhwystro trenau rhag",
 		"en": "ice preventing trains getting electricity from the third rail",
 		"nl": "problemen met de elektriciteitsvoorziening vanwege ijs op de derde rail"
 	},
 	"816": {
+		"cy": "cledrau llithrig",
 		"en": "slippery rails",
 		"nl": "glad spoor"
 	},
 	"817": {
+		"cy": "cledrau llithrig yn gynharach a",
 		"en": "slippery rails earlier in this train's journey",
 		"nl": "glad spoor eerder vandaag"
 	},
 	"818": {
+		"cy": "cledrau llithrig yn gynharach h",
 		"en": "slippery rails earlier today",
 		"nl": "glad spoor eerder vandaag"
 	},
 	"819": {
+		"cy": "rhagolygon tywydd garw",
 		"en": "forecasted severe weather",
 		"nl": "voorspeld extreem weer"
 	},
 	"820": {
+		"cy": "tywydd difrifol",
 		"en": "severe weather",
 		"nl": "extreem weer"
 	},
 	"821": {
+		"cy": "tywydd difrifol yn gynharach",
 		"en": "severe weather earlier",
 		"nl": "extreem weer eerder"
 	},
 	"822": {
+		"cy": "tywydd difrifol yn gynharach",
 		"en": "severe weather earlier in this train's journey",
 		"nl": "extreem weer eerder vandaag"
 	},
 	"823": {
+		"cy": "tywydd difrifol yn gynharach",
 		"en": "severe weather earlier today",
 		"nl": "extreem weer eerder vandaag"
 	},
 	"824": {
+		"cy": "archwiliad diogelwch ar y cled",
 		"en": "a safety inspection of the track",
 		"nl": "technisch onderzoek van het spoor"
 	},
 	"825": {
+		"cy": "archwiliad diogelwch ar drên",
 		"en": "a safety inspection on a train",
 		"nl": "technisch onderzoek aan een trein"
 	},
 	"826": {
+		"cy": "archwiliad diogelwch ar y trên",
 		"en": "a safety inspection on this train",
 		"nl": "technisch onderzoek aan deze trein"
 	},
 	"827": {
+		"cy": "archwiliad diogelwch ar y cled",
 		"en": "a safety inspection of the track earlier today",
 		"nl": "technisch onderzoek van het spoor eerder vandaag"
 	},
 	"828": {
+		"cy": "archwiliad diogelwch ar drên",
 		"en": "a safety inspection on a train earlier today",
 		"nl": "technisch onderzoek aan een trein eerder vandaag"
 	},
 	"829": {
+		"cy": "archwiliad diogelwch ar y trên",
 		"en": "a safety inspection on this train earlier in its journey",
 		"nl": "technisch onderzoek aan deze trein eerder vandaag"
 	},
 	"830": {
+		"cy": "nam ar system signalau'r trên",
 		"en": "a fault with the on train signalling system",
 		"nl": "een storing aan het treinbeveiligingssysteem"
 	},
 	"831": {
+		"cy": "nam ar y system radio rhwng",
 		"en": "a fault with the radio system between the driver and the signaller",
 		"nl": "een storing aan het radiosysteem tussen de machinist en de treindienstleider"
 	},
 	"832": {
+		"cy": "nam ar y system signalau",
 		"en": "a fault with the signalling system",
 		"nl": "een storing aan het treinbeveiligingssysteem"
 	},
 	"834": {
+		"cy": "y larwm tân yn canu mewn bo",
 		"en": "the fire alarm sounding in a signalbox",
 		"nl": "een brandalarm dat afgaat in een seinhuis"
 	},
 	"835": {
+		"cy": "y larwm tân yn canu mewn bo",
 		"en": "the fire alarm sounding in the signalling centre",
 		"nl": "een brandalarm dat afgaat in het regionale besturingscentrum"
 	},
 	"836": {
+		"cy": "rhagolygon eira trwm",
 		"en": "forecasted heavy snow",
 		"nl": "voorspelde zware sneeuwval"
 	},
 	"837": {
+		"cy": "eira trwm",
 		"en": "heavy snow",
 		"nl": "zware sneeuwval"
 	},
 	"838": {
+		"cy": "eira trwm yn gynharach ar dai",
 		"en": "heavy snow earlier in this train's journey",
 		"nl": "zware sneeuwval eerder vandaag"
 	},
 	"839": {
+		"cy": "eira trwm yn gynharach hedd",
 		"en": "heavy snow earlier today",
 		"nl": "zware sneeuwval eerder vandaag"
 	},
 	"840": {
+		"cy": "eira trwm dros y diwrnodau d",
 		"en": "heavy snow over recent days",
 		"nl": "zware sneeuwval de afgelopen dagen"
 	},
 	"841": {
+		"cy": "cyfyngiad cyflymder",
 		"en": "a speed restriction",
 		"nl": "een snelheidsbeperking"
 	},
 	"842": {
+		"cy": "cyfyngiad cyflymder oherwyd",
 		"en": "a speed restriction because of fog",
 		"nl": "een snelheidsbeperking vanwege mist"
 	},
 	"843": {
+		"cy": "cyfyngiad cyflymder oherwyd trên yma",
 		"en": "a speed restriction because of fog earlier on this train's journey",
 		"nl": "een snelheidsbeperking vanwege mist eerder vandaag"
 	},
 	"844": {
+		"cy": "cyfyngiad cyflymder oherwyd",
 		"en": "a speed restriction because of fog earlier today",
 		"nl": "een snelheidsbeperking vanwege mist eerder vandaag"
 	},
 	"845": {
+		"cy": "",
 		"en": "a speed restriction because of heavy rain",
 		"nl": ""
 	},
 	"846": {
+		"cy": "",
 		"en": "a speed restriction because of heavy rain earlier on this train's journey",
 		"nl": ""
 	},
 	"847": {
+		"cy": "",
 		"en": "a speed restriction because of heavy rain earlier today",
 		"nl": ""
 	},
 	"848": {
+		"cy": "",
 		"en": "a speed restriction because of high track temperatures",
 		"nl": ""
 	},
 	"849": {
+		"cy": "",
 		"en": "a speed restriction because of high track temperatures earlier on this train's journey",
 		"nl": ""
 	},
 	"850": {
+		"cy": "",
 		"en": "a speed restriction because of high track temperatures earlier today",
 		"nl": ""
 	},
 	"851": {
+		"cy": "",
 		"en": "a speed restriction because of high winds",
 		"nl": ""
 	},
 	"852": {
+		"cy": "",
 		"en": "a speed restriction because of high winds earlier on this train's journey",
 		"nl": ""
 	},
 	"853": {
+		"cy": "",
 		"en": "a speed restriction because of high winds earlier today",
 		"nl": ""
 	},
 	"854": {
+		"cy": "",
 		"en": "a speed restriction because of severe weather",
 		"nl": ""
 	},
 	"855": {
+		"cy": "",
 		"en": "a speed restriction because of severe weather earlier on this train's journey",
 		"nl": ""
 	},
 	"856": {
+		"cy": "",
 		"en": "a speed restriction because of severe weather earlier today",
 		"nl": ""
 	},
 	"857": {
+		"cy": "",
 		"en": "a speed restriction because of snow and ice",
 		"nl": ""
 	},
 	"858": {
+		"cy": "",
 		"en": "a speed restriction because of snow and ice earlier on this train's journey",
 		"nl": ""
 	},
 	"859": {
+		"cy": "",
 		"en": "a speed restriction because of snow and ice earlier today",
 		"nl": ""
 	},
 	"860": {
+		"cy": "",
 		"en": "a speed restriction earlier on this train's journey",
 		"nl": ""
 	},
 	"861": {
+		"cy": "",
 		"en": "a speed restriction earlier today",
 		"nl": ""
 	},
 	"862": {
+		"cy": "",
 		"en": "a speed restriction in a tunnel",
 		"nl": ""
 	},
 	"863": {
+		"cy": "",
 		"en": "a speed restriction in a tunnel earlier on this train's journey",
 		"nl": ""
 	},
 	"864": {
+		"cy": "",
 		"en": "a speed restriction in a tunnel earlier today",
 		"nl": ""
 	},
 	"865": {
+		"cy": "",
 		"en": "a speed restriction over a bridge",
 		"nl": ""
 	},
 	"866": {
+		"cy": "",
 		"en": "a speed restriction over a bridge earlier on this train's journey",
 		"nl": ""
 	},
 	"867": {
+		"cy": "",
 		"en": "a speed restriction over a bridge earlier today",
 		"nl": ""
 	},
 	"868": {
+		"cy": "",
 		"en": "a speed restriction over an embankment",
 		"nl": ""
 	},
 	"869": {
+		"cy": "",
 		"en": "a speed restriction over an embankment earlier on this train's journey",
 		"nl": ""
 	},
 	"870": {
+		"cy": "",
 		"en": "a speed restriction over an embankment earlier today",
 		"nl": ""
 	},
 	"871": {
+		"cy": "",
 		"en": "a speed restriction over defective track",
 		"nl": ""
 	},
 	"872": {
+		"cy": "",
 		"en": "a speed restriction over defective track earlier on this train's journey",
 		"nl": ""
 	},
 	"873": {
+		"cy": "",
 		"en": "a speed restriction over defective track earlier today",
 		"nl": ""
 	},
 	"874": {
+		"cy": "",
 		"en": "attempted theft of overhead line electrification equipment",
 		"nl": ""
 	},
 	"875": {
+		"cy": "",
 		"en": "attempted theft of railway equipment",
 		"nl": ""
 	},
 	"876": {
+		"cy": "",
 		"en": "attempted theft of signalling cables",
 		"nl": ""
 	},
 	"877": {
+		"cy": "",
 		"en": "attempted theft of third rail electrification equipment",
 		"nl": ""
 	},
 	"878": {
+		"cy": "",
 		"en": "theft of overhead line electrification equipment",
 		"nl": ""
 	},
 	"879": {
+		"cy": "",
 		"en": "theft of railway equipment",
 		"nl": ""
 	},
 	"880": {
+		"cy": "",
 		"en": "theft of signalling cables",
 		"nl": ""
 	},
 	"881": {
+		"cy": "",
 		"en": "theft of third rail electrification equipment",
 		"nl": ""
 	},
 	"882": {
+		"cy": "",
 		"en": "vandalism at a station",
 		"nl": ""
 	},
 	"883": {
+		"cy": "",
 		"en": "vandalism of railway equipment",
 		"nl": ""
 	},
 	"884": {
+		"cy": "",
 		"en": "vandalism on a train",
 		"nl": ""
 	},
 	"885": {
+		"cy": "",
 		"en": "vandalism on this train",
 		"nl": ""
 	},
 	"886": {
+		"cy": "",
 		"en": "train crew being delayed",
 		"nl": ""
 	},
 	"887": {
+		"cy": "",
 		"en": "train crew being delayed by service disruption",
 		"nl": ""
 	},
 	"888": {
+		"cy": "pont wedi cael ei difrodi",
 		"en": "a bridge being damaged",
 		"nl": ""
 	},
 	"889": {
+		"cy": "pont wedi cael ei difrodi gan g",
 		"en": "a bridge being damaged by a boat",
 		"nl": ""
 	},
 	"890": {
+		"cy": "Pont wedi cael ei difrodi gan c",
 		"en": "a bridge being damaged by a road vehicle",
 		"nl": ""
 	},
 	"891": {
+		"cy": "pont wedi dymchwel",
 		"en": "a bridge having collapsed",
 		"nl": ""
 	},
 	"892": {
+		"cy": "rheilffordd wedi torri",
 		"en": "a broken rail",
 		"nl": ""
 	},
 	"893": {
+		"cy": "",
 		"en": "a late departure while the train was cleaned specially",
 		"nl": ""
 	},
 	"894": {
+		"cy": "",
 		"en": "a late running freight train",
 		"nl": ""
 	},
 	"895": {
+		"cy": "",
 		"en": "a late running train being in front of this one",
 		"nl": ""
 	},
 	"896": {
+		"cy": "",
 		"en": "a points failure",
 		"nl": ""
 	},
 	"897": {
+		"cy": "",
 		"en": "a power cut at the station",
 		"nl": ""
 	},
 	"898": {
+		"cy": "",
 		"en": "a problem with the station lighting",
 		"nl": ""
 	},
 	"899": {
+		"cy": "",
 		"en": "a rail buckling in the heat",
 		"nl": ""
 	},
 	"900": {
+		"cy": "",
 		"en": "a railway embankment being damaged",
 		"nl": ""
 	},
 	"901": {
+		"cy": "",
 		"en": "a shortage of station staff",
 		"nl": ""
 	},
 	"902": {
+		"cy": "",
 		"en": "a tunnel being closed for safety reasons",
 		"nl": ""
 	},
 	"903": {
+		"cy": "",
 		"en": "an incident at the airport",
 		"nl": ""
 	},
 	"904": {
+		"cy": "",
 		"en": "congestion",
 		"nl": ""
 	},
 	"905": {
+		"cy": "",
 		"en": "the communication alarm being activated on a train",
 		"nl": ""
 	},
 	"906": {
+		"cy": "",
 		"en": "the communication alarm being activated on this train",
 		"nl": ""
 	},
 	"907": {
+		"cy": "",
 		"en": "the train departing late to maintain customer connections",
 		"nl": ""
 	},
 	"908": {
+		"cy": "",
 		"en": "the train making extra stops because a train was cancelled",
 		"nl": ""
 	},
 	"909": {
+		"cy": "",
 		"en": "the train making extra stops because of service disruption",
 		"nl": ""
 	},
 	"910": {
+		"cy": "",
 		"en": "waiting for a part of the train to be attached",
 		"nl": ""
 	},
 	"911": {
+		"cy": "",
 		"en": "a fault on a train",
 		"nl": ""
 	},
 	"912": {
+		"cy": "",
 		"en": "a problem with platform equipment",
 		"nl": ""
 	},
 	"913": {
+		"cy": "",
 		"en": "a fault on a train earlier",
 		"nl": ""
 	},
 	"914": {
+		"cy": "",
 		"en": "issues with communication systems",
 		"nl": ""
 	},
 	"915": {
+		"cy": "",
 		"en": "a problem in the depot",
 		"nl": ""
 	},
 	"916": {
+		"cy": "",
 		"en": "signalling staff being unavailable",
 		"nl": ""
 	},
 	"917": {
+		"cy": "",
 		"en": "staff training",
 		"nl": ""
 	},
 	"918": {
+		"cy": "",
 		"en": "a short-notice change to the timetable",
 		"nl": ""
 	},
 	"919": {
+		"cy": "",
 		"en": "misuse of a level crossing",
 		"nl": ""
 	},
 	"920": {
+		"cy": "aelod o griw'r trên heb fod ar",
 		"en": "a member of train crew being unavailable",
 		"nl": ""
 	},
 	"921": {
+		"cy": "",
 		"en": "a member of train crew being unavailable earlier",
 		"nl": ""
 	}
