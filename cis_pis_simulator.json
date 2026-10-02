@@ -236,7 +236,7 @@
 				"fr": "Départ",
 				"it": false,
 				"nl": "Vertrek",
-				"sv": false
+				"sv": "Avgå"
 			},
 			"headerDestinationAndRemarks": {
 				"_translationNote": "Direct translation of 'to' and 'remarks' if possible, but translations of 'Destination' and 'notes' are also acceptable. Capitalise both words, and separate with a forward-slash (no space).",
@@ -247,7 +247,7 @@
 				"fr": "À/Remarques",
 				"it": false,
 				"nl": "Naar/Opmerkingen",
-				"sv": false
+				"sv": "An/Anmärkningar"
 			},
 			"headerPlatformAndTrain": {
 				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language. Capitalise both words, and separate with a forward-slash (no space).",
@@ -258,7 +258,7 @@
 				"fr": "Quai/Train",
 				"it": false,
 				"nl": "Spoor/Trein",
-				"sv": false
+				"sv": "Spår/Tåg"
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence. Needs to work in combination with serviceReason below.",
@@ -269,7 +269,7 @@
 				"fr": "Supprimé",
 				"it": "Soppresso",
 				"nl": "Rijdt niet",
-				"sv": false
+				"sv": "Inställt"
 			},
 			"serviceReason": {
 				"_translationNote": "Needs to work in combination with serviceCancelled above. An example of a reason that could follow is 'a fault on this train'.",
@@ -280,7 +280,7 @@
 				"fr": "en raison de",
 				"it": false,
 				"nl": "door",
-				"sv": false
+				"sv": "på grund av"
 			},
 			"bus": {
 				"cy": "bws",
@@ -328,7 +328,7 @@
 				"fr": "Pour",
 				"it": "Per",
 				"nl": "Naar",
-				"sv": false
+				"sv": "An"
 			},
 			"headerOrigin": {
 				"_translationNote": "Direct translation of 'from' if possible, but a translation of 'Origin' is also acceptable.",
@@ -339,7 +339,7 @@
 				"fr": "De",
 				"it": "Da",
 				"nl": "Van",
-				"sv": false
+				"sv": "Från"
 			},
 			"headerPlatform": {
 				"_translationNote": "Use whichever of platform/track is more commonly used in the relevant language.",
@@ -350,7 +350,7 @@
 				"fr": "Voie",
 				"it": "Binario",
 				"nl": "Spoor",
-				"sv": false
+				"sv": "Spår"
 			},
 			"headerNote": {
 				"_translationNote": "This column states if a service is cancelled/delayed, and shows any other message related to it. Translation of 'remarks' is acceptable if there is no direct translation for 'note'. Please assume to be singular.",
@@ -361,7 +361,7 @@
 				"fr": "Remarque",
 				"it": "Nota",
 				"nl": "Opmerking",
-				"sv": false
+				"sv": "Anmärkning"
 			},
 			"serviceCancelled": {
 				"_translationNote": "Capitalise as if it was the start of a sentence.",
@@ -372,7 +372,7 @@
 				"fr": "Supprimé",
 				"it": "Soppresso",
 				"nl": "Rijdt niet",
-				"sv": false
+				"sv": "Inställt"
 			},
 			"serviceDelayedMins": {
 				"_translationNote": "Although this will be used as a full sentence, keep it lowercase to match SBB's style. {min} will be an integer, assumed to be >1.",
