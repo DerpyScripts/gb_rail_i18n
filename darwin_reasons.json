@@ -2,431 +2,517 @@
 	"100": {
 		"cy": "Trên wedi torri i lawr",
 		"en": "a broken down train",
+		"es": "un tren averiado",
 		"nl": "een defecte trein"
 	},
 	"101": {
 		"cy": "oedi ar daith gynharach",
 		"en": "a delay on a previous journey",
+		"es": "un retraso en un viaje anterior",
 		"nl": "vertraging van een eerdere trip"
 	},
 	"102": {
 		"cy": "trên wedi mynd oddi ar y cled",
 		"en": "a derailed train",
+		"es": "un tren descarrilado",
 		"nl": "een ontspoorde trein"
 	},
 	"104": {
 		"cy": "tân mewn gorsaf",
 		"en": "a fire at a station",
+		"es": "un incendio en una estación",
 		"nl": "brand in een station"
 	},
 	"105": {
 		"cy": "tân mewn gorsaf yn gynharac",
 		"en": "a fire at a station earlier",
+		"es": "un incendio en una estación antes",
 		"nl": "brand in een station eerder vandaag"
 	},
 	"106": {
 		"cy": "tirlithriad",
 		"en": "a landslip",
+		"es": "un derrumbamiento de tierra",
 		"nl": "een aardverzakking"
 	},
 	"107": {
 		"cy": "tân wrth y cledrau",
 		"en": "a line-side fire",
+		"es": "un incendio junto a la vía",
 		"nl": "een bermbrand"
 	},
 	"108": {
 		"cy": "aelod o griw'r trên heb fod ar",
 		"en": "a member of train crew being unavailable",
+		"es": "la indisponibilidad de la tripulación del tren",
 		"nl": "een tekort aan treinpersoneel"
 	},
 	"109": {
 		"cy": "teithiwr wedi cael ei daro'n w",
 		"en": "a passenger being taken ill",
+		"es": "que un pasajero se ha sentido mal",
 		"nl": "een zieke passagier"
 	},
 	"110": {
 		"cy": "teithiwr wedi cael ei daro'n w",
 		"en": "a passenger having been taken ill earlier",
+		"es": "que un pasajero se ha sentido mal antes",
 		"nl": "een zieke passagier eerder vandaag"
 	},
 	"111": {
 		"cy": "person wedi cael ei daro gan d",
 		"en": "a person hit by a train",
+		"es": "que una persona fue atropellada por un tren",
 		"nl": "een aanrijding met een persoon"
 	},
 	"112": {
 		"cy": "person wedi cael ei daro gan d",
 		"en": "a person hit by a train earlier",
+		"es": "que una persona fue atropellada por un tren antes",
 		"nl": "een aanrijding met een persoon eerder vandaag"
 	},
 	"113": {
 		"cy": "problem ar groesfan reilffordd",
 		"en": "a problem at a level crossing",
+		"es": "un problema en un paso a nivel",
 		"nl": "een probleem bij een spoorwegovergang"
 	},
 	"114": {
 		"cy": "problem dan ymchwiliad",
 		"en": "a problem currently under investigation",
+		"es": "un problema que se está investigando",
 		"nl": "een probleem dat nog wordt onderzocht"
 	},
 	"115": {
 		"cy": "problem ger y rheilffordd",
 		"en": "a problem near the railway",
+		"es": "un problema cerca de la vía férrea",
 		"nl": "een probleem in de buurt van de spoorweg"
 	},
 	"116": {
 		"cy": "problem gyda phont dros afon",
 		"en": "a problem with a river bridge",
+		"es": "un problema con un puente sobre un río",
 		"nl": "een probleem met een spoorbrug over een rivier"
 	},
 	"117": {
 		"cy": "problem gyda chyfarpar wrth",
 		"en": "a problem with line side equipment",
+		"es": "un problema con el equipo de línea",
 		"nl": "een probleem met spoorapparatuur"
 	},
 	"118": {
 		"cy": "rhybudd diogelwch",
 		"en": "a security alert",
+		"es": "una alerta de seguridad",
 		"nl": "een beveiligingswaarschuwing"
 	},
 	"119": {
 		"cy": "trên wedi mynd oddi ar y cled",
 		"en": "a train derailed earlier",
+		"es": "un tren descarrilado antes",
 		"nl": "een ontspoorde trein eerder vandaag"
 	},
 	"120": {
 		"cy": "nam ar y trên",
 		"en": "a train fault",
+		"es": "una avería en el tren",
 		"nl": "een storing aan een trein"
 	},
 	"121": {
 		"cy": "trên yn hwyr o'r depo",
 		"en": "a train late from the depot",
+		"es": "la salida tardía de un tren desde el depósito",
 		"nl": "een vertraagde trein vanaf het depot"
 	},
 	"122": {
 		"cy": "trên yn hwyr o'r depo yn gynh",
 		"en": "a train late from the depot earlier",
+		"es": "la salida tardía de un tren desde el depósito antes",
 		"nl": "een vertraagde trein vanaf het depot eerder vandaag"
 	},
 	"123": {
 		"cy": "digwyddiad tresmasu",
 		"en": "a trespass incident",
+		"es": "un incidente de intrusión",
 		"nl": "een persoon op het spoor"
 	},
 	"124": {
 		"cy": "cerbyd wedi taro pont",
 		"en": "a vehicle striking a bridge",
+		"es": "que un vehículo chocó contra un puente",
 		"nl": "een botsing tussen een voertuig en een brug"
 	},
 	"125": {
 		"cy": "cerbyd wedi taro pont yn gyn",
 		"en": "a vehicle striking a bridge earlier",
+		"es": "que un vehículo chocó contra un puente antes",
 		"nl": "een botsing tussen een voertuig en een brug eerder vandaag"
 	},
 	"126": {
 		"cy": "trên wedi torri i lawr yn gynha",
 		"en": "an earlier broken down train",
+		"es": "un tren averiado antes",
 		"nl": "een defecte trein eerder vandaag"
 	},
 	"128": {
 		"cy": "tirlithriad yn gynharach",
 		"en": "an earlier landslip",
+		"es": "un derrumbamiento de tierra antes",
 		"nl": "een aardverzakking eerder vandaag"
 	},
 	"129": {
 		"cy": "tân ger y cledrau yn gynharac",
 		"en": "an earlier line-side fire",
+		"es": "un incendio junto a la vía antes",
 		"nl": "een bermbrand eerder vandaag"
 	},
 	"130": {
 		"cy": "digwyddiad gweithredu yn gy",
 		"en": "an earlier operating incident",
+		"es": "un incidente operativo antes",
 		"nl": "een operationeel incident eerder vandaag"
 	},
 	"131": {
 		"cy": "problem ar groesfan reilffordd",
 		"en": "an earlier problem at a level crossing",
+		"es": "un problema en un paso a nivel antes",
 		"nl": "een probleem met een spoorwegovergang eerder vandaag"
 	},
 	"132": {
 		"cy": "problem wrth y rheilffordd yn",
 		"en": "an earlier problem near the railway",
+		"es": "un problema cerca de la vía férrea antes",
 		"nl": "een probleem bij de spoorweg eerder vandaag"
 	},
 	"133": {
 		"cy": "problem gyda phont dros afon",
 		"en": "an earlier problem with a river bridge",
+		"es": "un problema con un puente sobre un río antes",
 		"nl": "een probleem met een spoorbrug eerder vandaag"
 	},
 	"134": {
 		"cy": "problem gyda chyfarpar wrth",
 		"en": "an earlier problem with line side equipment",
+		"es": "un problema con el equipo de línea antes",
 		"nl": "een probleem met spoorapparatuur eerder vandaag"
 	},
 	"135": {
 		"cy": "rhybudd diogelwch yn gynhar",
 		"en": "an earlier security alert",
+		"es": "una alerta de seguridad antes",
 		"nl": "een beveiligingswaarschuwing eerder vandaag"
 	},
 	"136": {
 		"cy": "nam ar y trên yn gynharach",
 		"en": "an earlier train fault",
+		"es": "una avería en el tren antes",
 		"nl": "een defecte trein eerder vandaag"
 	},
 	"137": {
 		"cy": "digwyddiad tresmasu yn gynh",
 		"en": "an earlier trespass incident",
+		"es": "un incidente de intrusión antes",
 		"nl": "een persoon op het spoor eerder vandaag"
 	},
 	"138": {
 		"cy": "rhwystr ar y cledrau",
 		"en": "an obstruction on the line",
+		"es": "una obstrucción en la ferroviaria",
 		"nl": "een obstakel op de spoorweg"
 	},
 	"139": {
 		"cy": "rhwystr ar y cledrau yn gynha",
 		"en": "an obstruction on the line earlier",
+		"es": "una obstrucción en la ferroviaria antes",
 		"nl": "een obstakel op de spoorweg eerder vandaag"
 	},
 	"140": {
 		"cy": "digwyddiad gweithredu",
 		"en": "an operating incident",
+		"es": "un incidente operativo",
 		"nl": "een operationeel incident"
 	},
 	"141": {
 		"cy": "llif anghyffredin o fawr o deit",
 		"en": "an unusually large passenger flow",
+		"es": "un flujo de pasajeros inusualmente elevado",
 		"nl": "een onverwachte hoeveelheid passagiers"
 	},
 	"142": {
 		"cy": "llif anghyffredin o fawr o deit",
 		"en": "an unusually large passenger flow earlier",
+		"es": "un flujo de pasajeros inusualmente elevado antes",
 		"nl": "een onverwachte hoeveelheid passagiers eerder vandaag"
 	},
 	"143": {
 		"cy": "anifeiliaid ar y cledrau",
 		"en": "animals on the line",
+		"es": "la presencia de animales en la ferroviaria",
 		"nl": "dieren op het spoor"
 	},
 	"144": {
 		"cy": "anifeiliaid ar y cledrau yn gyn",
 		"en": "animals on the line earlier",
+		"es": "la presencia de animales en la ferroviaria antes",
 		"nl": "dieren op het spoor eerder vandaag"
 	},
 	"145": {
 		"cy": "oedi cynharach wedi achosi ta",
 		"en": "congestion caused by earlier delays",
+		"es": "la congestión causada por retrasos anteriores",
 		"nl": "drukte op het spoor vanwege eerdere vertraging"
 	},
 	"146": {
 		"cy": "teithwyr yn achosi trafferthio",
 		"en": "disruptive passengers",
+		"es": "pasajeros conflictivos",
 		"nl": "hinderlijke passagiers"
 	},
 	"147": {
 		"cy": "teithwyr yn achosi trafferthio",
 		"en": "disruptive passengers earlier",
+		"es": "pasajeros conflictivos antes",
 		"nl": "hinderlijke passagiers eerder vandaag"
 	},
 	"148": {
 		"cy": "problemau gyda'r cyflenwad t",
 		"en": "earlier electrical supply problems",
+		"es": "problemas en el suministro eléctrico antes",
 		"nl": "een probleem met de stroomvoorziening eerder vandaag"
 	},
 	"149": {
 		"cy": "gwaith peirianyddol brys yn g",
 		"en": "earlier emergency engineering works",
+		"es": "obras de ingeniería de emergencia antes",
 		"nl": "noodherstelwerkzaamheden eerder vandaag"
 	},
 	"150": {
 		"cy": "gweithredu diwydiannol yn gy",
 		"en": "earlier industrial action",
+		"es": "medidas de fuerza antes",
 		"nl": "stakingen eerder vandaag"
 	},
 	"151": {
 		"cy": "problemau gyda gwifrau uwch",
 		"en": "earlier overhead wire problems",
+		"es": "problemas con las líneas eléctricas aéreas antes",
 		"nl": "bovenleidingsproblemen eerder vandaag"
 	},
 	"152": {
 		"cy": "gwaith peirianyddol yn",
 		"en": "earlier over-running engineering works",
+		"es": "trabajos de ingeniería que se prolongaron más de lo previsto",
 		"nl": "vertraagde werkzaamheden eerder vandaag"
 	},
 	"153": {
 		"cy": "problemau gyda signalau yn g",
 		"en": "earlier signalling problems",
+		"es": "problemas de señalización antes",
 		"nl": "een seinstoring eerder vandaag"
 	},
 	"154": {
 		"cy": "fandaliaeth yn gynharach",
 		"en": "earlier vandalism",
+		"es": "actos de vandalismo antes",
 		"nl": "vandalisme eerder vandaag"
 	},
 	"155": {
 		"cy": "problemau gyda'r cyflenwad t",
 		"en": "electrical supply problems",
+		"es": "problemas en el suministro eléctrico",
 		"nl": "een probleem met de stroomvoorziening"
 	},
 	"156": {
 		"cy": "gwaith peirianyddol brys",
 		"en": "emergency engineering works",
+		"es": "obras de ingeniería de emergencia",
 		"nl": "noodherstelwerkzaamheden"
 	},
 	"157": {
 		"cy": "y gwasanaethau brys yn delio",
 		"en": "emergency services dealing with a prior incident",
+		"es": "los servicios de emergencia están atendiendo un incidente antes",
 		"nl": "hulpdiensten aan het werk met een incident eerder vandaag"
 	},
 	"158": {
 		"cy": "y gwasanaethau brys yn delio",
 		"en": "emergency services dealing with an incident",
+		"es": "los servicios de emergencia están atendiendo un incidente",
 		"nl": "hulpdiensten aan het werk met een incident"
 	},
 	"159": {
 		"cy": "larymau tân yn canu mewn go",
 		"en": "fire alarms sounding at a station",
+		"es": "que se activaron las alarmas de incendio en una estación",
 		"nl": "een brandalarm bij een station"
 	},
 	"160": {
 		"cy": "larymau tân yn canu mewn go",
 		"en": "fire alarms sounding earlier at a station",
+		"es": "que se activaron las alarmas de incendio en una estación antes",
 		"nl": "een brandalarm bij een station eerder vandaag"
 	},
 	"161": {
 		"cy": "llifogydd",
 		"en": "flooding",
+		"es": "inundaciones",
 		"nl": "een overstroming"
 	},
 	"162": {
 		"cy": "llifogydd yn gynharach",
 		"en": "flooding earlier",
+		"es": "inundaciones antes",
 		"nl": "een overstroming eerder vandaag"
 	},
 	"163": {
 		"cy": "niwl",
 		"en": "fog",
+		"es": "la niebla",
 		"nl": "mist"
 	},
 	"164": {
 		"cy": "niwl yn gynharach",
 		"en": "fog earlier",
+		"es": "la niebla antes",
 		"nl": "mist eerder vandaag"
 	},
 	"165": {
 		"cy": "gwyntoedd cryf",
 		"en": "high winds",
+		"es": "los fuertes vientos",
 		"nl": "sterke wind"
 	},
 	"166": {
 		"cy": "gwyntoedd cryf yn gynharach",
 		"en": "high winds earlier",
+		"es": "los fuertes vientos antes",
 		"nl": "sterke wind eerder vandaag"
 	},
 	"167": {
 		"cy": "gweithredu diwydiannol",
 		"en": "industrial action",
+		"es": "medidas de fuerza",
 		"nl": "een staking"
 	},
 	"168": {
 		"cy": "mellten wedi difrodi cyfarpar",
 		"en": "lightning having damaged equipment",
+		"es": "que un rayo dañó el equipo",
 		"nl": "defecte apparatuur door blikseminslag"
 	},
 	"169": {
 		"cy": "problemau gyda gwifrau uwch",
 		"en": "overhead wire problems",
+		"es": "problemas con las líneas eléctricas aéreas",
 		"nl": "bovenleidingsproblemen"
 	},
 	"170": {
 		"cy": "gwaith peirianyddol",
 		"en": "over-running engineering works",
+		"es": "que las obras de ingeniería están llevando más tiempo de lo previsto",
 		"nl": "vertraagde werkzaamheden"
 	},
 	"171": {
 		"cy": "teithwyr yn trosglwyddo rhwn",
 		"en": "passengers transferring between trains",
+		"es": "los pasajeros que hacen transbordo entre trenes",
 		"nl": "overstappende passagiers"
 	},
 	"172": {
 		"cy": "teithwyr yn trosglwyddo rhwn",
 		"en": "passengers transferring between trains earlier",
+		"es": "los pasajeros que hacen transbordo entre trenes antes",
 		"nl": "overstappende passagiers eerder vandaag"
 	},
 	"173": {
 		"cy": "amodau gwael ar y rheilffordd",
 		"en": "poor rail conditions",
+		"es": "las malas condiciones de la vía férrea",
 		"nl": "slechte spoor omstandigheden"
 	},
 	"174": {
 		"cy": "amodau gwael ar y rheilffordd",
 		"en": "poor rail conditions earlier",
+		"es": "las malas condiciones de la vía férrea antes",
 		"nl": "slechte spoor omstandigheden eerder vandaag"
 	},
 	"175": {
 		"cy": "tywydd gwael",
 		"en": "poor weather conditions",
+		"es": "las malas condiciones meteorológicas",
 		"nl": "slecht weer"
 	},
 	"176": {
 		"cy": "tywydd gwael yn gynharach",
 		"en": "poor weather conditions earlier",
+		"es": "las malas condiciones meteorológicas antes",
 		"nl": "slecht weer eerder vandaag"
 	},
 	"177": {
 		"cy": "archwiliadau diogelwch yn ca",
 		"en": "safety checks being made",
+		"es": "a realización de comprobaciones de seguridad",
 		"nl": "een beveiligingsronde"
 	},
 	"178": {
 		"cy": "archwiliadau diogelwch wedi",
 		"en": "safety checks having been made earlier",
+		"es": "a realización de comprobaciones de seguridad antes",
 		"nl": "een beveiligingsronde eerder vandaag"
 	},
 	"179": {
 		"cy": "problemau gyda signalau",
 		"en": "signalling problems",
+		"es": "problemas de señalización",
 		"nl": "een seinstoring"
 	},
 	"180": {
 		"cy": "eira",
 		"en": "snow",
+		"es": "la nieve",
 		"nl": "sneeuw"
 	},
 	"181": {
 		"cy": "eira yn gynharach",
 		"en": "snow earlier",
+		"es": "la nieve antes",
 		"nl": "sneeuw eerder vandaag"
 	},
 	"182": {
 		"cy": "cyfyngiadau cyflymder wedi c",
 		"en": "speed restrictions having been imposed",
+		"es": "que se han impuesto restricciones de velocidad",
 		"nl": "snelheidsbeperkingen"
 	},
 	"183": {
 		"cy": "criw trên heb fod ar gael yn g",
 		"en": "train crew having been unavailable earlier",
+		"es": "la indisponibilidad de la tripulación del tren antes",
 		"nl": "een tekort aan treinpersoneel eerder vandaag"
 	},
 	"184": {
 		"cy": "fandaliaeth",
 		"en": "vandalism",
+		"es": "actos de vandalismo",
 		"nl": "vandalisme"
 	},
 	"185": {
 		"cy": "aros am aelod o griw'r trên yn",
 		"en": "waiting earlier for a train crew member",
+		"es": "la espera de la tripulación del tren antes",
 		"nl": "wachten op treinpersoneel eerder vandaag"
 	},
 	"186": {
 		"cy": "aros am aelod o griw'r trên",
 		"en": "waiting for a train crew member",
+		"es": "la espera de la tripulación del tren",
 		"nl": "wachten op treinpersoneel"
 	},
 	"187": {
 		"cy": "gwaith peirianyddol",
 		"en": "engineering works",
+		"es": "obras de ingeniería",
 		"nl": "werkzaamheden"
 	},
 	"501": {
